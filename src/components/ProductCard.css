@@ -1,0 +1,300 @@
+/* =====================================
+   PRODUCT CARD
+===================================== */
+
+.buy-product-card {
+  width: 100%;
+  min-width: 0;
+
+  background: #ffffff;
+
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+
+  padding: 12px;
+
+  box-sizing: border-box;
+
+  display: flex;
+  flex-direction: column;
+
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+
+  overflow: hidden;
+}
+
+.buy-product-card:hover {
+  transform: translateY(-4px);
+
+  box-shadow:
+    0 8px 20px rgba(0, 0, 0, 0.12);
+}
+
+
+/* =====================================
+   IMAGE
+===================================== */
+
+.buy-product-card-image {
+  width: 100%;
+  height: 180px;
+
+  background: #f8fafc;
+
+  border-radius: 8px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  overflow: hidden;
+
+  margin-bottom: 12px;
+}
+
+.buy-product-card-image img {
+  width: 100%;
+  height: 100%;
+
+  object-fit: contain;
+
+  transition: transform 0.3s ease;
+}
+
+.buy-product-card:hover
+.buy-product-card-image img {
+  transform: scale(1.05);
+}
+
+.buy-product-card-image span {
+  font-size: 50px;
+}
+
+
+/* =====================================
+   PRODUCT NAME
+===================================== */
+
+.buy-product-card-name {
+  margin: 0 0 5px;
+
+  font-size: 16px;
+  font-weight: 600;
+
+  color: #222;
+
+  line-height: 1.4;
+
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+
+  -webkit-box-orient: vertical;
+
+  overflow: hidden;
+
+  min-height: 45px;
+}
+
+
+/* =====================================
+   BRAND
+===================================== */
+
+.buy-product-card-brand {
+  margin: 0 0 8px;
+
+  font-size: 13px;
+
+  color: #777;
+}
+
+
+/* =====================================
+   RATING
+===================================== */
+
+.buy-product-card-rating {
+  width: fit-content;
+
+  background: #fff7e6;
+
+  color: #e67e00;
+
+  border-radius: 5px;
+
+  padding: 4px 7px;
+
+  font-size: 12px;
+  font-weight: 600;
+
+  margin-bottom: 8px;
+}
+
+
+/* =====================================
+   PRICE
+===================================== */
+
+.buy-product-card-price {
+  display: flex;
+
+  align-items: center;
+
+  gap: 8px;
+
+  margin-bottom: 6px;
+}
+
+.buy-product-card-price strong {
+  font-size: 19px;
+
+  font-weight: 700;
+
+  color: #111827;
+}
+
+.buy-product-card-price span {
+  font-size: 11px;
+
+  font-weight: 600;
+
+  color: #16a34a;
+
+  background: #ecfdf5;
+
+  padding: 3px 6px;
+
+  border-radius: 4px;
+}
+
+
+/* =====================================
+   STOCK
+===================================== */
+
+.buy-product-card-stock {
+  font-size: 12px;
+
+  font-weight: 600;
+
+  margin: 0 0 10px;
+}
+
+.buy-product-card-stock.available {
+  color: #16a34a;
+}
+
+.buy-product-card-stock.out {
+  color: #dc2626;
+}
+
+
+/* =====================================
+   BUTTONS
+===================================== */
+
+.buy-product-card-buttons {
+  display: flex;
+
+  gap: 8px;
+
+  margin-top: auto;
+}
+
+
+/* =====================================
+   COMMON BUTTON
+===================================== */
+
+.buy-product-card-buttons button {
+  flex: 1;
+
+  height: 36px;
+
+  border-radius: 6px;
+
+  font-size: 12px;
+
+  font-weight: 600;
+
+  cursor: pointer;
+
+  transition: 0.2s ease;
+}
+
+
+/* =====================================
+   DETAILS BUTTON
+===================================== */
+
+.buy-product-card-details {
+  background: #ffffff;
+
+  color: #2563eb;
+
+  border: 1px solid #2563eb;
+}
+
+.buy-product-card-details:hover {
+  background: #eff6ff;
+}
+
+
+/* =====================================
+   ADD CART BUTTON
+===================================== */
+
+.buy-product-card-cart {
+  background: #2563eb;
+
+  color: white;
+
+  border: 1px solid #2563eb;
+}
+
+.buy-product-card-cart:hover {
+  background: #1d4ed8;
+}
+
+
+/* =====================================
+   DISABLED
+===================================== */
+
+.buy-product-card-cart:disabled {
+  background: #d1d5db;
+
+  border-color: #d1d5db;
+
+  color: #6b7280;
+
+  cursor: not-allowed;
+}
+
+
+/* =====================================
+   MOBILE
+===================================== */
+
+@media (max-width: 600px) {
+
+  .buy-product-card {
+    padding: 10px;
+  }
+
+  .buy-product-card-image {
+    height: 160px;
+  }
+
+  .buy-product-card-name {
+    font-size: 15px;
+  }
+
+  .buy-product-card-price strong {
+    font-size: 17px;
+  }
+
+}

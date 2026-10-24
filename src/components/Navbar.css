@@ -1,0 +1,34 @@
+.navbar {
+  height: 55px;
+
+  background: white;
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  gap: 35px;
+
+  box-shadow: 0 1px 3px #ccc;
+
+  overflow-x: auto;
+}
+
+.navbar button {
+  border: none;
+
+  background: transparent;
+
+  padding: 10px;
+
+  font-weight: bold;
+
+  cursor: pointer;
+}
+
+.navbar button:hover,
+.navbar .active {
+  color: #2874f0;
+}

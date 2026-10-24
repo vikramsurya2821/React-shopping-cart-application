@@ -1,0 +1,4921 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "iPhone 15",
+      "category": "Mobile",
+      "price": 69999,
+      "stock": 25,
+      "brand": "Apple",
+      "rating": 4.8,
+      "discount": 10,
+      "image": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Apple smartphone with powerful performance and advanced camera.",
+      "variants": [
+        {
+          "id": "1-v1",
+          "ram": "8GB",
+          "storage": "128GB",
+          "color": "Black",
+          "price": 69999,
+          "stock": 8
+        },
+        {
+          "id": "1-v2",
+          "ram": "8GB",
+          "storage": "256GB",
+          "color": "Blue",
+          "price": 75599,
+          "stock": 8
+        },
+        {
+          "id": "1-v3",
+          "ram": "12GB",
+          "storage": "256GB",
+          "color": "Silver",
+          "price": 81199,
+          "stock": 9
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "iPhone 15 Pro",
+      "category": "Mobile",
+      "price": 129999,
+      "stock": 15,
+      "brand": "Apple",
+      "rating": 4.9,
+      "discount": 8,
+      "image": "https://images.unsplash.com/photo-1696446701796-da61225697cc?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Premium Apple smartphone with Pro camera system.",
+      "variants": [
+        {
+          "id": "2-v1",
+          "ram": "8GB",
+          "storage": "128GB",
+          "color": "Black",
+          "price": 129999,
+          "stock": 5
+        },
+        {
+          "id": "2-v2",
+          "ram": "8GB",
+          "storage": "256GB",
+          "color": "Blue",
+          "price": 140399,
+          "stock": 5
+        },
+        {
+          "id": "2-v3",
+          "ram": "12GB",
+          "storage": "256GB",
+          "color": "Silver",
+          "price": 150799,
+          "stock": 5
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "iPhone 15 Plus",
+      "category": "Mobile",
+      "price": 79999,
+      "stock": 20,
+      "brand": "Apple",
+      "rating": 4.7,
+      "discount": 12,
+      "image": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Large display smartphone with excellent battery life.",
+      "variants": [
+        {
+          "id": "3-v1",
+          "ram": "8GB",
+          "storage": "128GB",
+          "color": "Black",
+          "price": 79999,
+          "stock": 6
+        },
+        {
+          "id": "3-v2",
+          "ram": "8GB",
+          "storage": "256GB",
+          "color": "Blue",
+          "price": 86399,
+          "stock": 6
+        },
+        {
+          "id": "3-v3",
+          "ram": "12GB",
+          "storage": "256GB",
+          "color": "Silver",
+          "price": 92799,
+          "stock": 8
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Samsung Galaxy S24",
+      "category": "Mobile",
+      "price": 74999,
+      "stock": 18,
+      "brand": "Samsung",
+      "rating": 4.7,
+      "discount": 15,
+      "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Premium Samsung smartphone with AMOLED display.",
+      "variants": [
+        {
+          "id": "4-v1",
+          "ram": "8GB",
+          "storage": "128GB",
+          "color": "Black",
+          "price": 74999,
+          "stock": 6
+        },
+        {
+          "id": "4-v2",
+          "ram": "8GB",
+          "storage": "256GB",
+          "color": "Blue",
+          "price": 80999,
+          "stock": 6
+        },
+        {
+          "id": "4-v3",
+          "ram": "12GB",
+          "storage": "256GB",
+          "color": "Silver",
+          "price": 86999,
+          "stock": 6
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Samsung Galaxy S24 Ultra",
+      "category": "Mobile",
+      "price": 129999,
+      "stock": 10,
+      "brand": "Samsung",
+      "rating": 4.9,
+      "discount": 7,
+      "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Flagship smartphone with S Pen and powerful camera.",
+      "variants": [
+        {
+          "id": "5-v1",
+          "ram": "8GB",
+          "storage": "128GB",
+          "color": "Black",
+          "price": 129999,
+          "stock": 3
+        },
+        {
+          "id": "5-v2",
+          "ram": "8GB",
+          "storage": "256GB",
+          "color": "Blue",
+          "price": 140399,
+          "stock": 3
+        },
+        {
+          "id": "5-v3",
+          "ram": "12GB",
+          "storage": "256GB",
+          "color": "Silver",
+          "price": 150799,
+          "stock": 4
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Samsung Galaxy A55",
+      "category": "Mobile",
+      "price": 38999,
+      "stock": 30,
+      "brand": "Samsung",
+      "rating": 4.5,
+      "discount": 18,
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Mid-range smartphone with premium design.",
+      "variants": [
+        {
+          "id": "6-v1",
+          "ram": "8GB",
+          "storage": "128GB",
+          "color": "Black",
+          "price": 38999,
+          "stock": 10
+        },
+        {
+          "id": "6-v2",
+          "ram": "8GB",
+          "storage": "256GB",
+          "color": "Blue",
+          "price": 42119,
+          "stock": 10
+        },
+        {
+          "id": "6-v3",
+          "ram": "12GB",
+          "storage": "256GB",
+          "color": "Silver",
+          "price": 45239,
+          "stock": 10
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "OnePlus 12",
+      "category": "Mobile",
+      "price": 64999,
+      "stock": 22,
+      "brand": "OnePlus",
+      "rating": 4.7,
+      "discount": 10,
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "High-performance smartphone with fast charging.",
+      "variants": [
+        {
+          "id": "7-v1",
+          "ram": "8GB",
+          "storage": "128GB",
+          "color": "Black",
+          "price": 64999,
+          "stock": 7
+        },
+        {
+          "id": "7-v2",
+          "ram": "8GB",
+          "storage": "256GB",
+          "color": "Blue",
+          "price": 70199,
+          "stock": 7
+        },
+        {
+          "id": "7-v3",
+          "ram": "12GB",
+          "storage": "256GB",
+          "color": "Silver",
+          "price": 75399,
+          "stock": 8
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "OnePlus Nord CE 4",
+      "category": "Mobile",
+      "price": 24999,
+      "stock": 35,
+      "brand": "OnePlus",
+      "rating": 4.4,
+      "discount": 15,
+      "image": "https://images.unsplash.com/photo-1556656793-08538906a9f8?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Affordable smartphone with smooth performance.",
+      "variants": [
+        {
+          "id": "8-v1",
+          "ram": "8GB",
+          "storage": "128GB",
+          "color": "Black",
+          "price": 24999,
+          "stock": 11
+        },
+        {
+          "id": "8-v2",
+          "ram": "8GB",
+          "storage": "256GB",
+          "color": "Blue",
+          "price": 26999,
+          "stock": 11
+        },
+        {
+          "id": "8-v3",
+          "ram": "12GB",
+          "storage": "256GB",
+          "color": "Silver",
+          "price": 28999,
+          "stock": 13
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Google Pixel 8",
+      "category": "Mobile",
+      "price": 59999,
+      "stock": 16,
+      "brand": "Google",
+      "rating": 4.6,
+      "discount": 12,
+      "image": "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Google smartphone with excellent computational photography.",
+      "variants": [
+        {
+          "id": "9-v1",
+          "ram": "8GB",
+          "storage": "128GB",
+          "color": "Black",
+          "price": 59999,
+          "stock": 5
+        },
+        {
+          "id": "9-v2",
+          "ram": "8GB",
+          "storage": "256GB",
+          "color": "Blue",
+          "price": 64799,
+          "stock": 5
+        },
+        {
+          "id": "9-v3",
+          "ram": "12GB",
+          "storage": "256GB",
+          "color": "Silver",
+          "price": 69599,
+          "stock": 6
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Redmi Note 13 Pro",
+      "category": "Mobile",
+      "price": 27999,
+      "stock": 40,
+      "brand": "Xiaomi",
+      "rating": 4.5,
+      "discount": 20,
+      "image": "https://images.unsplash.com/photo-1567581935884-3349723552ca?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Feature-rich smartphone with high-resolution camera.",
+      "variants": [
+        {
+          "id": "10-v1",
+          "ram": "8GB",
+          "storage": "128GB",
+          "color": "Black",
+          "price": 27999,
+          "stock": 13
+        },
+        {
+          "id": "10-v2",
+          "ram": "8GB",
+          "storage": "256GB",
+          "color": "Blue",
+          "price": 30239,
+          "stock": 13
+        },
+        {
+          "id": "10-v3",
+          "ram": "12GB",
+          "storage": "256GB",
+          "color": "Silver",
+          "price": 32479,
+          "stock": 14
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "MacBook Air M3",
+      "category": "Laptop",
+      "price": 114999,
+      "stock": 12,
+      "brand": "Apple",
+      "rating": 4.9,
+      "discount": 8,
+      "image": "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Lightweight laptop powered by Apple M3 chip.",
+      "variants": [
+        {
+          "id": "11-v1",
+          "ram": "8GB",
+          "storage": "512GB SSD",
+          "price": 114999,
+          "stock": 4
+        },
+        {
+          "id": "11-v2",
+          "ram": "16GB",
+          "storage": "512GB SSD",
+          "price": 128799,
+          "stock": 4
+        },
+        {
+          "id": "11-v3",
+          "ram": "16GB",
+          "storage": "1TB SSD",
+          "price": 140299,
+          "stock": 4
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "MacBook Pro M3",
+      "category": "Laptop",
+      "price": 169999,
+      "stock": 8,
+      "brand": "Apple",
+      "rating": 4.9,
+      "discount": 5,
+      "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Professional laptop with powerful M3 processor.",
+      "variants": [
+        {
+          "id": "12-v1",
+          "ram": "8GB",
+          "storage": "512GB SSD",
+          "price": 169999,
+          "stock": 2
+        },
+        {
+          "id": "12-v2",
+          "ram": "16GB",
+          "storage": "512GB SSD",
+          "price": 190399,
+          "stock": 2
+        },
+        {
+          "id": "12-v3",
+          "ram": "16GB",
+          "storage": "1TB SSD",
+          "price": 207399,
+          "stock": 4
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Dell Inspiron 15",
+      "category": "Laptop",
+      "price": 58999,
+      "stock": 20,
+      "brand": "Dell",
+      "rating": 4.4,
+      "discount": 15,
+      "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Everyday laptop suitable for work and study.",
+      "variants": [
+        {
+          "id": "13-v1",
+          "ram": "8GB",
+          "storage": "512GB SSD",
+          "price": 58999,
+          "stock": 6
+        },
+        {
+          "id": "13-v2",
+          "ram": "16GB",
+          "storage": "512GB SSD",
+          "price": 66079,
+          "stock": 6
+        },
+        {
+          "id": "13-v3",
+          "ram": "16GB",
+          "storage": "1TB SSD",
+          "price": 71979,
+          "stock": 8
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Dell XPS 13",
+      "category": "Laptop",
+      "price": 109999,
+      "stock": 9,
+      "brand": "Dell",
+      "rating": 4.7,
+      "discount": 10,
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Premium compact laptop with high-resolution display.",
+      "variants": [
+        {
+          "id": "14-v1",
+          "ram": "8GB",
+          "storage": "512GB SSD",
+          "price": 109999,
+          "stock": 3
+        },
+        {
+          "id": "14-v2",
+          "ram": "16GB",
+          "storage": "512GB SSD",
+          "price": 123199,
+          "stock": 3
+        },
+        {
+          "id": "14-v3",
+          "ram": "16GB",
+          "storage": "1TB SSD",
+          "price": 134199,
+          "stock": 3
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "HP Pavilion 15",
+      "category": "Laptop",
+      "price": 64999,
+      "stock": 18,
+      "brand": "HP",
+      "rating": 4.5,
+      "discount": 12,
+      "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Reliable laptop for everyday productivity.",
+      "variants": [
+        {
+          "id": "15-v1",
+          "ram": "8GB",
+          "storage": "512GB SSD",
+          "price": 64999,
+          "stock": 6
+        },
+        {
+          "id": "15-v2",
+          "ram": "16GB",
+          "storage": "512GB SSD",
+          "price": 72799,
+          "stock": 6
+        },
+        {
+          "id": "15-v3",
+          "ram": "16GB",
+          "storage": "1TB SSD",
+          "price": 79299,
+          "stock": 6
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "HP Victus Gaming",
+      "category": "Laptop",
+      "price": 84999,
+      "stock": 14,
+      "brand": "HP",
+      "rating": 4.6,
+      "discount": 10,
+      "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Gaming laptop with dedicated graphics.",
+      "variants": [
+        {
+          "id": "16-v1",
+          "ram": "8GB",
+          "storage": "512GB SSD",
+          "price": 84999,
+          "stock": 4
+        },
+        {
+          "id": "16-v2",
+          "ram": "16GB",
+          "storage": "512GB SSD",
+          "price": 95199,
+          "stock": 4
+        },
+        {
+          "id": "16-v3",
+          "ram": "16GB",
+          "storage": "1TB SSD",
+          "price": 103699,
+          "stock": 6
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Lenovo IdeaPad Slim 5",
+      "category": "Laptop",
+      "price": 62999,
+      "stock": 25,
+      "brand": "Lenovo",
+      "rating": 4.5,
+      "discount": 18,
+      "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Slim laptop designed for productivity.",
+      "variants": [
+        {
+          "id": "17-v1",
+          "ram": "8GB",
+          "storage": "512GB SSD",
+          "price": 62999,
+          "stock": 8
+        },
+        {
+          "id": "17-v2",
+          "ram": "16GB",
+          "storage": "512GB SSD",
+          "price": 70559,
+          "stock": 8
+        },
+        {
+          "id": "17-v3",
+          "ram": "16GB",
+          "storage": "1TB SSD",
+          "price": 76859,
+          "stock": 9
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Lenovo Legion 5",
+      "category": "Laptop",
+      "price": 104999,
+      "stock": 11,
+      "brand": "Lenovo",
+      "rating": 4.8,
+      "discount": 9,
+      "image": "https://images.unsplash.com/photo-1593642702749-b7d2a804fbcf?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Powerful gaming laptop with high refresh rate display.",
+      "variants": [
+        {
+          "id": "18-v1",
+          "ram": "8GB",
+          "storage": "512GB SSD",
+          "price": 104999,
+          "stock": 3
+        },
+        {
+          "id": "18-v2",
+          "ram": "16GB",
+          "storage": "512GB SSD",
+          "price": 117599,
+          "stock": 3
+        },
+        {
+          "id": "18-v3",
+          "ram": "16GB",
+          "storage": "1TB SSD",
+          "price": 128099,
+          "stock": 5
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Asus VivoBook 15",
+      "category": "Laptop",
+      "price": 55999,
+      "stock": 22,
+      "brand": "Asus",
+      "rating": 4.4,
+      "discount": 15,
+      "image": "https://images.unsplash.com/photo-1602080858428-57174f9431cf?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Affordable laptop for students and professionals.",
+      "variants": [
+        {
+          "id": "19-v1",
+          "ram": "8GB",
+          "storage": "512GB SSD",
+          "price": 55999,
+          "stock": 7
+        },
+        {
+          "id": "19-v2",
+          "ram": "16GB",
+          "storage": "512GB SSD",
+          "price": 62719,
+          "stock": 7
+        },
+        {
+          "id": "19-v3",
+          "ram": "16GB",
+          "storage": "1TB SSD",
+          "price": 68319,
+          "stock": 8
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Asus ROG Strix G16",
+      "category": "Laptop",
+      "price": 139999,
+      "stock": 7,
+      "brand": "Asus",
+      "rating": 4.8,
+      "discount": 8,
+      "image": "https://images.unsplash.com/photo-1593642634315-48f5414c3ad9?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "High-performance gaming laptop for demanding games.",
+      "variants": [
+        {
+          "id": "20-v1",
+          "ram": "8GB",
+          "storage": "512GB SSD",
+          "price": 139999,
+          "stock": 2
+        },
+        {
+          "id": "20-v2",
+          "ram": "16GB",
+          "storage": "512GB SSD",
+          "price": 156799,
+          "stock": 2
+        },
+        {
+          "id": "20-v3",
+          "ram": "16GB",
+          "storage": "1TB SSD",
+          "price": 170799,
+          "stock": 3
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Sony WH-1000XM5",
+      "category": "Headphones",
+      "price": 29999,
+      "stock": 20,
+      "brand": "Sony",
+      "rating": 4.8,
+      "discount": 12,
+      "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Wireless noise cancelling headphones.",
+      "variants": [
+        {
+          "id": "21-v1",
+          "color": "Black",
+          "price": 29999,
+          "stock": 6
+        },
+        {
+          "id": "21-v2",
+          "color": "Blue",
+          "price": 30899,
+          "stock": 6
+        },
+        {
+          "id": "21-v3",
+          "color": "White",
+          "price": 31799,
+          "stock": 8
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Sony WH-CH720N",
+      "category": "Headphones",
+      "price": 9999,
+      "stock": 35,
+      "brand": "Sony",
+      "rating": 4.5,
+      "discount": 20,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Lightweight wireless noise cancelling headphones.",
+      "variants": [
+        {
+          "id": "22-v1",
+          "color": "Black",
+          "price": 9999,
+          "stock": 11
+        },
+        {
+          "id": "22-v2",
+          "color": "Blue",
+          "price": 10299,
+          "stock": 11
+        },
+        {
+          "id": "22-v3",
+          "color": "White",
+          "price": 10599,
+          "stock": 13
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "name": "JBL Tune 770NC",
+      "category": "Headphones",
+      "price": 6999,
+      "stock": 30,
+      "brand": "JBL",
+      "rating": 4.5,
+      "discount": 18,
+      "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Wireless headphones with adaptive noise cancellation.",
+      "variants": [
+        {
+          "id": "23-v1",
+          "color": "Black",
+          "price": 6999,
+          "stock": 10
+        },
+        {
+          "id": "23-v2",
+          "color": "Blue",
+          "price": 7209,
+          "stock": 10
+        },
+        {
+          "id": "23-v3",
+          "color": "White",
+          "price": 7419,
+          "stock": 10
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "name": "JBL Live 660NC",
+      "category": "Headphones",
+      "price": 11999,
+      "stock": 18,
+      "brand": "JBL",
+      "rating": 4.6,
+      "discount": 15,
+      "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Premium wireless headphones with powerful sound.",
+      "variants": [
+        {
+          "id": "24-v1",
+          "color": "Black",
+          "price": 11999,
+          "stock": 6
+        },
+        {
+          "id": "24-v2",
+          "color": "Blue",
+          "price": 12359,
+          "stock": 6
+        },
+        {
+          "id": "24-v3",
+          "color": "White",
+          "price": 12719,
+          "stock": 6
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "name": "Boat Rockerz 550",
+      "category": "Headphones",
+      "price": 1999,
+      "stock": 50,
+      "brand": "Boat",
+      "rating": 4.3,
+      "discount": 25,
+      "image": "https://images.unsplash.com/photo-1578319439584-104c94d37305?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Affordable wireless headphones with deep bass.",
+      "variants": [
+        {
+          "id": "25-v1",
+          "color": "Black",
+          "price": 1999,
+          "stock": 16
+        },
+        {
+          "id": "25-v2",
+          "color": "Blue",
+          "price": 2059,
+          "stock": 16
+        },
+        {
+          "id": "25-v3",
+          "color": "White",
+          "price": 2119,
+          "stock": 18
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "name": "Boat Nirvana 751",
+      "category": "Headphones",
+      "price": 3999,
+      "stock": 40,
+      "brand": "Boat",
+      "rating": 4.4,
+      "discount": 20,
+      "image": "https://images.unsplash.com/photo-1487215078519-e21cc028cb29?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Wireless headphones with active noise cancellation.",
+      "variants": [
+        {
+          "id": "26-v1",
+          "color": "Black",
+          "price": 3999,
+          "stock": 13
+        },
+        {
+          "id": "26-v2",
+          "color": "Blue",
+          "price": 4119,
+          "stock": 13
+        },
+        {
+          "id": "26-v3",
+          "color": "White",
+          "price": 4239,
+          "stock": 14
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "name": "Sennheiser HD 450BT",
+      "category": "Headphones",
+      "price": 10999,
+      "stock": 16,
+      "brand": "Sennheiser",
+      "rating": 4.6,
+      "discount": 12,
+      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Bluetooth headphones with detailed sound.",
+      "variants": [
+        {
+          "id": "27-v1",
+          "color": "Black",
+          "price": 10999,
+          "stock": 5
+        },
+        {
+          "id": "27-v2",
+          "color": "Blue",
+          "price": 11329,
+          "stock": 5
+        },
+        {
+          "id": "27-v3",
+          "color": "White",
+          "price": 11659,
+          "stock": 6
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "name": "Bose QuietComfort",
+      "category": "Headphones",
+      "price": 29999,
+      "stock": 10,
+      "brand": "Bose",
+      "rating": 4.8,
+      "discount": 10,
+      "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Comfortable headphones with excellent noise cancellation.",
+      "variants": [
+        {
+          "id": "28-v1",
+          "color": "Black",
+          "price": 29999,
+          "stock": 3
+        },
+        {
+          "id": "28-v2",
+          "color": "Blue",
+          "price": 30899,
+          "stock": 3
+        },
+        {
+          "id": "28-v3",
+          "color": "White",
+          "price": 31799,
+          "stock": 4
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "name": "Realme Buds Wireless",
+      "category": "Headphones",
+      "price": 1999,
+      "stock": 45,
+      "brand": "Realme",
+      "rating": 4.2,
+      "discount": 20,
+      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Affordable wireless neckband with clear audio.",
+      "variants": [
+        {
+          "id": "29-v1",
+          "color": "Black",
+          "price": 1999,
+          "stock": 15
+        },
+        {
+          "id": "29-v2",
+          "color": "Blue",
+          "price": 2059,
+          "stock": 15
+        },
+        {
+          "id": "29-v3",
+          "color": "White",
+          "price": 2119,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "name": "OnePlus Bullets Z2",
+      "category": "Headphones",
+      "price": 2299,
+      "stock": 40,
+      "brand": "OnePlus",
+      "rating": 4.4,
+      "discount": 15,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Wireless neckband with long battery life.",
+      "variants": [
+        {
+          "id": "30-v1",
+          "color": "Black",
+          "price": 2299,
+          "stock": 13
+        },
+        {
+          "id": "30-v2",
+          "color": "Blue",
+          "price": 2368,
+          "stock": 13
+        },
+        {
+          "id": "30-v3",
+          "color": "White",
+          "price": 2437,
+          "stock": 14
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "name": "AirPods Pro 2",
+      "category": "Earbuds",
+      "price": 24999,
+      "stock": 25,
+      "brand": "Apple",
+      "rating": 4.8,
+      "discount": 10,
+      "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Premium wireless earbuds with active noise cancellation.",
+      "variants": [
+        {
+          "id": "31-v1",
+          "color": "Black",
+          "price": 24999,
+          "stock": 8
+        },
+        {
+          "id": "31-v2",
+          "color": "Blue",
+          "price": 25749,
+          "stock": 8
+        },
+        {
+          "id": "31-v3",
+          "color": "White",
+          "price": 26499,
+          "stock": 9
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "name": "AirPods 3",
+      "category": "Earbuds",
+      "price": 19999,
+      "stock": 30,
+      "brand": "Apple",
+      "rating": 4.6,
+      "discount": 12,
+      "image": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Wireless earbuds with spatial audio.",
+      "variants": [
+        {
+          "id": "32-v1",
+          "color": "Black",
+          "price": 19999,
+          "stock": 10
+        },
+        {
+          "id": "32-v2",
+          "color": "Blue",
+          "price": 20599,
+          "stock": 10
+        },
+        {
+          "id": "32-v3",
+          "color": "White",
+          "price": 21199,
+          "stock": 10
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "name": "Galaxy Buds 2 Pro",
+      "category": "Earbuds",
+      "price": 16999,
+      "stock": 22,
+      "brand": "Samsung",
+      "rating": 4.7,
+      "discount": 18,
+      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Premium Samsung earbuds with immersive sound.",
+      "variants": [
+        {
+          "id": "33-v1",
+          "color": "Black",
+          "price": 16999,
+          "stock": 7
+        },
+        {
+          "id": "33-v2",
+          "color": "Blue",
+          "price": 17509,
+          "stock": 7
+        },
+        {
+          "id": "33-v3",
+          "color": "White",
+          "price": 18019,
+          "stock": 8
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "name": "OnePlus Buds 3",
+      "category": "Earbuds",
+      "price": 5499,
+      "stock": 35,
+      "brand": "OnePlus",
+      "rating": 4.5,
+      "discount": 15,
+      "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Wireless earbuds with powerful bass.",
+      "variants": [
+        {
+          "id": "34-v1",
+          "color": "Black",
+          "price": 5499,
+          "stock": 11
+        },
+        {
+          "id": "34-v2",
+          "color": "Blue",
+          "price": 5664,
+          "stock": 11
+        },
+        {
+          "id": "34-v3",
+          "color": "White",
+          "price": 5829,
+          "stock": 13
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "name": "Nothing Ear",
+      "category": "Earbuds",
+      "price": 8999,
+      "stock": 20,
+      "brand": "Nothing",
+      "rating": 4.5,
+      "discount": 10,
+      "image": "https://images.unsplash.com/photo-1608338037793-7c4c2e9a2c18?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Stylish wireless earbuds with high-quality audio.",
+      "variants": [
+        {
+          "id": "35-v1",
+          "color": "Black",
+          "price": 8999,
+          "stock": 6
+        },
+        {
+          "id": "35-v2",
+          "color": "Blue",
+          "price": 9269,
+          "stock": 6
+        },
+        {
+          "id": "35-v3",
+          "color": "White",
+          "price": 9539,
+          "stock": 8
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "name": "Realme Buds Air 5",
+      "category": "Earbuds",
+      "price": 3999,
+      "stock": 45,
+      "brand": "Realme",
+      "rating": 4.3,
+      "discount": 20,
+      "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Affordable earbuds with noise cancellation.",
+      "variants": [
+        {
+          "id": "36-v1",
+          "color": "Black",
+          "price": 3999,
+          "stock": 15
+        },
+        {
+          "id": "36-v2",
+          "color": "Blue",
+          "price": 4119,
+          "stock": 15
+        },
+        {
+          "id": "36-v3",
+          "color": "White",
+          "price": 4239,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "name": "Boat Airdopes 141",
+      "category": "Earbuds",
+      "price": 1499,
+      "stock": 60,
+      "brand": "Boat",
+      "rating": 4.2,
+      "discount": 30,
+      "image": "https://images.unsplash.com/photo-1598331668826-20cecc596b86?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Budget wireless earbuds with long battery life.",
+      "variants": [
+        {
+          "id": "37-v1",
+          "color": "Black",
+          "price": 1499,
+          "stock": 20
+        },
+        {
+          "id": "37-v2",
+          "color": "Blue",
+          "price": 1544,
+          "stock": 20
+        },
+        {
+          "id": "37-v3",
+          "color": "White",
+          "price": 1589,
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "name": "JBL Wave Buds",
+      "category": "Earbuds",
+      "price": 2999,
+      "stock": 35,
+      "brand": "JBL",
+      "rating": 4.3,
+      "discount": 18,
+      "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Compact wireless earbuds with rich bass.",
+      "variants": [
+        {
+          "id": "38-v1",
+          "color": "Black",
+          "price": 2999,
+          "stock": 11
+        },
+        {
+          "id": "38-v2",
+          "color": "Blue",
+          "price": 3089,
+          "stock": 11
+        },
+        {
+          "id": "38-v3",
+          "color": "White",
+          "price": 3179,
+          "stock": 13
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "name": "Oppo Enco Air 3",
+      "category": "Earbuds",
+      "price": 2999,
+      "stock": 28,
+      "brand": "Oppo",
+      "rating": 4.4,
+      "discount": 15,
+      "image": "https://images.unsplash.com/photo-1598331668826-20cecc596b86?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Lightweight earbuds with clear sound.",
+      "variants": [
+        {
+          "id": "39-v1",
+          "color": "Black",
+          "price": 2999,
+          "stock": 9
+        },
+        {
+          "id": "39-v2",
+          "color": "Blue",
+          "price": 3089,
+          "stock": 9
+        },
+        {
+          "id": "39-v3",
+          "color": "White",
+          "price": 3179,
+          "stock": 10
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "name": "Sony WF-1000XM5",
+      "category": "Earbuds",
+      "price": 24999,
+      "stock": 12,
+      "brand": "Sony",
+      "rating": 4.9,
+      "discount": 8,
+      "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Flagship wireless earbuds with advanced noise cancellation.",
+      "variants": [
+        {
+          "id": "40-v1",
+          "color": "Black",
+          "price": 24999,
+          "stock": 4
+        },
+        {
+          "id": "40-v2",
+          "color": "Blue",
+          "price": 25749,
+          "stock": 4
+        },
+        {
+          "id": "40-v3",
+          "color": "White",
+          "price": 26499,
+          "stock": 4
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "name": "iPad Air",
+      "category": "Tablet",
+      "price": 59999,
+      "stock": 15,
+      "brand": "Apple",
+      "rating": 4.8,
+      "discount": 8,
+      "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Lightweight tablet for work and entertainment.",
+      "variants": [
+        {
+          "id": "41-v1",
+          "ram": "6GB",
+          "storage": "128GB",
+          "price": 59999,
+          "stock": 7
+        },
+        {
+          "id": "41-v2",
+          "ram": "8GB",
+          "storage": "256GB",
+          "price": 67199,
+          "stock": 8
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "name": "iPad Pro",
+      "category": "Tablet",
+      "price": 109999,
+      "stock": 8,
+      "brand": "Apple",
+      "rating": 4.9,
+      "discount": 5,
+      "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Professional tablet with powerful performance.",
+      "variants": [
+        {
+          "id": "42-v1",
+          "ram": "6GB",
+          "storage": "128GB",
+          "price": 109999,
+          "stock": 4
+        },
+        {
+          "id": "42-v2",
+          "ram": "8GB",
+          "storage": "256GB",
+          "price": 123199,
+          "stock": 4
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "name": "Samsung Galaxy Tab S9",
+      "category": "Tablet",
+      "price": 71999,
+      "stock": 12,
+      "brand": "Samsung",
+      "rating": 4.7,
+      "discount": 10,
+      "image": "https://images.unsplash.com/photo-1561154464-82e9adf32764?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Premium Android tablet with AMOLED display.",
+      "variants": [
+        {
+          "id": "43-v1",
+          "ram": "6GB",
+          "storage": "128GB",
+          "price": 71999,
+          "stock": 6
+        },
+        {
+          "id": "43-v2",
+          "ram": "8GB",
+          "storage": "256GB",
+          "price": 80639,
+          "stock": 6
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "name": "Samsung Galaxy Tab A9",
+      "category": "Tablet",
+      "price": 15999,
+      "stock": 25,
+      "brand": "Samsung",
+      "rating": 4.4,
+      "discount": 15,
+      "image": "https://images.unsplash.com/photo-1561154464-82e9adf32764?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Affordable tablet for entertainment and browsing.",
+      "variants": [
+        {
+          "id": "44-v1",
+          "ram": "6GB",
+          "storage": "128GB",
+          "price": 15999,
+          "stock": 12
+        },
+        {
+          "id": "44-v2",
+          "ram": "8GB",
+          "storage": "256GB",
+          "price": 17919,
+          "stock": 13
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "name": "OnePlus Pad",
+      "category": "Tablet",
+      "price": 37999,
+      "stock": 18,
+      "brand": "OnePlus",
+      "rating": 4.6,
+      "discount": 12,
+      "image": "https://images.unsplash.com/photo-1561154464-82e9adf32764?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "High-performance Android tablet with large display.",
+      "variants": [
+        {
+          "id": "45-v1",
+          "ram": "6GB",
+          "storage": "128GB",
+          "price": 37999,
+          "stock": 9
+        },
+        {
+          "id": "45-v2",
+          "ram": "8GB",
+          "storage": "256GB",
+          "price": 42559,
+          "stock": 9
+        }
+      ]
+    },
+    {
+      "id": "46",
+      "name": "Lenovo Tab P12",
+      "category": "Tablet",
+      "price": 29999,
+      "stock": 20,
+      "brand": "Lenovo",
+      "rating": 4.4,
+      "discount": 18,
+      "image": "https://images.unsplash.com/photo-1561154464-82e9adf32764?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Large-screen tablet for entertainment and productivity.",
+      "variants": [
+        {
+          "id": "46-v1",
+          "ram": "6GB",
+          "storage": "128GB",
+          "price": 29999,
+          "stock": 10
+        },
+        {
+          "id": "46-v2",
+          "ram": "8GB",
+          "storage": "256GB",
+          "price": 33599,
+          "stock": 10
+        }
+      ]
+    },
+    {
+      "id": "47",
+      "name": "Redmi Pad SE",
+      "category": "Tablet",
+      "price": 13999,
+      "stock": 30,
+      "brand": "Xiaomi",
+      "rating": 4.3,
+      "discount": 20,
+      "image": "https://images.unsplash.com/photo-1561154464-82e9adf32764?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Affordable tablet with a smooth display.",
+      "variants": [
+        {
+          "id": "47-v1",
+          "ram": "6GB",
+          "storage": "128GB",
+          "price": 13999,
+          "stock": 15
+        },
+        {
+          "id": "47-v2",
+          "ram": "8GB",
+          "storage": "256GB",
+          "price": 15679,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "name": "Realme Pad 2",
+      "category": "Tablet",
+      "price": 18999,
+      "stock": 25,
+      "brand": "Realme",
+      "rating": 4.4,
+      "discount": 15,
+      "image": "https://images.unsplash.com/photo-1561154464-82e9adf32764?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Budget tablet with large display and good performance.",
+      "variants": [
+        {
+          "id": "48-v1",
+          "ram": "6GB",
+          "storage": "128GB",
+          "price": 18999,
+          "stock": 12
+        },
+        {
+          "id": "48-v2",
+          "ram": "8GB",
+          "storage": "256GB",
+          "price": 21279,
+          "stock": 13
+        }
+      ]
+    },
+    {
+      "id": "49",
+      "name": "Oppo Pad Air",
+      "category": "Tablet",
+      "price": 19999,
+      "stock": 17,
+      "brand": "Oppo",
+      "rating": 4.3,
+      "discount": 12,
+      "image": "https://images.unsplash.com/photo-1561154464-82e9adf32764?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Slim Android tablet for daily use.",
+      "variants": [
+        {
+          "id": "49-v1",
+          "ram": "6GB",
+          "storage": "128GB",
+          "price": 19999,
+          "stock": 8
+        },
+        {
+          "id": "49-v2",
+          "ram": "8GB",
+          "storage": "256GB",
+          "price": 22399,
+          "stock": 9
+        }
+      ]
+    },
+    {
+      "id": "50",
+      "name": "Microsoft Surface Go",
+      "category": "Tablet",
+      "price": 49999,
+      "stock": 9,
+      "brand": "Microsoft",
+      "rating": 4.5,
+      "discount": 10,
+      "image": "https://images.unsplash.com/photo-1561154464-82e9adf32764?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Compact Windows tablet for productivity.",
+      "variants": [
+        {
+          "id": "50-v1",
+          "ram": "6GB",
+          "storage": "128GB",
+          "price": 49999,
+          "stock": 4
+        },
+        {
+          "id": "50-v2",
+          "ram": "8GB",
+          "storage": "256GB",
+          "price": 55999,
+          "stock": 5
+        }
+      ]
+    },
+    {
+      "id": "51",
+      "name": "Apple Watch Series 9",
+      "category": "Smartwatch",
+      "price": 44999,
+      "stock": 14,
+      "brand": "Apple",
+      "rating": 4.8,
+      "discount": 8,
+      "image": "https://images.unsplash.com/photo-1544117519-31a4b719223d?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Smartwatch with health and fitness tracking.",
+      "variants": [
+        {
+          "id": "51-v1",
+          "color": "Black",
+          "price": 44999,
+          "stock": 4
+        },
+        {
+          "id": "51-v2",
+          "color": "Blue",
+          "price": 46349,
+          "stock": 4
+        },
+        {
+          "id": "51-v3",
+          "color": "White",
+          "price": 47699,
+          "stock": 6
+        }
+      ]
+    },
+    {
+      "id": "52",
+      "name": "Apple Watch SE",
+      "category": "Smartwatch",
+      "price": 29999,
+      "stock": 20,
+      "brand": "Apple",
+      "rating": 4.6,
+      "discount": 10,
+      "image": "https://images.unsplash.com/photo-1544117519-31a4b719223d?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Affordable Apple smartwatch for everyday use.",
+      "variants": [
+        {
+          "id": "52-v1",
+          "color": "Black",
+          "price": 29999,
+          "stock": 6
+        },
+        {
+          "id": "52-v2",
+          "color": "Blue",
+          "price": 30899,
+          "stock": 6
+        },
+        {
+          "id": "52-v3",
+          "color": "White",
+          "price": 31799,
+          "stock": 8
+        }
+      ]
+    },
+    {
+      "id": "53",
+      "name": "Samsung Galaxy Watch 6",
+      "category": "Smartwatch",
+      "price": 29999,
+      "stock": 18,
+      "brand": "Samsung",
+      "rating": 4.6,
+      "discount": 15,
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Smartwatch with fitness and health monitoring.",
+      "variants": [
+        {
+          "id": "53-v1",
+          "color": "Black",
+          "price": 29999,
+          "stock": 6
+        },
+        {
+          "id": "53-v2",
+          "color": "Blue",
+          "price": 30899,
+          "stock": 6
+        },
+        {
+          "id": "53-v3",
+          "color": "White",
+          "price": 31799,
+          "stock": 6
+        }
+      ]
+    },
+    {
+      "id": "54",
+      "name": "OnePlus Watch 2",
+      "category": "Smartwatch",
+      "price": 24999,
+      "stock": 15,
+      "brand": "OnePlus",
+      "rating": 4.5,
+      "discount": 12,
+      "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Durable smartwatch with long battery life.",
+      "variants": [
+        {
+          "id": "54-v1",
+          "color": "Black",
+          "price": 24999,
+          "stock": 5
+        },
+        {
+          "id": "54-v2",
+          "color": "Blue",
+          "price": 25749,
+          "stock": 5
+        },
+        {
+          "id": "54-v3",
+          "color": "White",
+          "price": 26499,
+          "stock": 5
+        }
+      ]
+    },
+    {
+      "id": "55",
+      "name": "Boat Storm Call",
+      "category": "Smartwatch",
+      "price": 1999,
+      "stock": 45,
+      "brand": "Boat",
+      "rating": 4.2,
+      "discount": 25,
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Budget smartwatch with fitness tracking.",
+      "variants": [
+        {
+          "id": "55-v1",
+          "color": "Black",
+          "price": 1999,
+          "stock": 15
+        },
+        {
+          "id": "55-v2",
+          "color": "Blue",
+          "price": 2059,
+          "stock": 15
+        },
+        {
+          "id": "55-v3",
+          "color": "White",
+          "price": 2119,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": "56",
+      "name": "Noise ColorFit Pro",
+      "category": "Smartwatch",
+      "price": 2999,
+      "stock": 40,
+      "brand": "Noise",
+      "rating": 4.3,
+      "discount": 20,
+      "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Smartwatch with AMOLED display and health tracking.",
+      "variants": [
+        {
+          "id": "56-v1",
+          "color": "Black",
+          "price": 2999,
+          "stock": 13
+        },
+        {
+          "id": "56-v2",
+          "color": "Blue",
+          "price": 3089,
+          "stock": 13
+        },
+        {
+          "id": "56-v3",
+          "color": "White",
+          "price": 3179,
+          "stock": 14
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "name": "Fire-Boltt Phoenix",
+      "category": "Smartwatch",
+      "price": 1799,
+      "stock": 50,
+      "brand": "Fire-Boltt",
+      "rating": 4.1,
+      "discount": 30,
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Affordable smartwatch with calling features.",
+      "variants": [
+        {
+          "id": "57-v1",
+          "color": "Black",
+          "price": 1799,
+          "stock": 16
+        },
+        {
+          "id": "57-v2",
+          "color": "Blue",
+          "price": 1853,
+          "stock": 16
+        },
+        {
+          "id": "57-v3",
+          "color": "White",
+          "price": 1907,
+          "stock": 18
+        }
+      ]
+    },
+    {
+      "id": "58",
+      "name": "Amazfit GTR 4",
+      "category": "Smartwatch",
+      "price": 14999,
+      "stock": 12,
+      "brand": "Amazfit",
+      "rating": 4.6,
+      "discount": 15,
+      "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Premium fitness smartwatch with GPS.",
+      "variants": [
+        {
+          "id": "58-v1",
+          "color": "Black",
+          "price": 14999,
+          "stock": 4
+        },
+        {
+          "id": "58-v2",
+          "color": "Blue",
+          "price": 15449,
+          "stock": 4
+        },
+        {
+          "id": "58-v3",
+          "color": "White",
+          "price": 15899,
+          "stock": 4
+        }
+      ]
+    },
+    {
+      "id": "59",
+      "name": "Fossil Gen 6",
+      "category": "Smartwatch",
+      "price": 19999,
+      "stock": 10,
+      "brand": "Fossil",
+      "rating": 4.4,
+      "discount": 18,
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Stylish smartwatch with classic watch design.",
+      "variants": [
+        {
+          "id": "59-v1",
+          "color": "Black",
+          "price": 19999,
+          "stock": 3
+        },
+        {
+          "id": "59-v2",
+          "color": "Blue",
+          "price": 20599,
+          "stock": 3
+        },
+        {
+          "id": "59-v3",
+          "color": "White",
+          "price": 21199,
+          "stock": 4
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "name": "Garmin Venu 3",
+      "category": "Smartwatch",
+      "price": 49999,
+      "stock": 7,
+      "brand": "Garmin",
+      "rating": 4.8,
+      "discount": 8,
+      "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Advanced fitness smartwatch with health tracking.",
+      "variants": [
+        {
+          "id": "60-v1",
+          "color": "Black",
+          "price": 49999,
+          "stock": 2
+        },
+        {
+          "id": "60-v2",
+          "color": "Blue",
+          "price": 51499,
+          "stock": 2
+        },
+        {
+          "id": "60-v3",
+          "color": "White",
+          "price": 52999,
+          "stock": 3
+        }
+      ]
+    },
+    {
+      "id": "61",
+      "name": "Sony Bravia 43 Inch",
+      "category": "Television",
+      "price": 49999,
+      "stock": 12,
+      "brand": "Sony",
+      "rating": 4.7,
+      "discount": 12,
+      "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "4K smart television with vibrant picture quality.",
+      "variants": [
+        {
+          "id": "61-v1",
+          "size": "43 Inch",
+          "price": 49999,
+          "stock": 4
+        },
+        {
+          "id": "61-v2",
+          "size": "50 Inch",
+          "price": 58999,
+          "stock": 4
+        },
+        {
+          "id": "61-v3",
+          "size": "55 Inch",
+          "price": 67499,
+          "stock": 4
+        }
+      ]
+    },
+    {
+      "id": "62",
+      "name": "Samsung Crystal 4K 50 Inch",
+      "category": "Television",
+      "price": 54999,
+      "stock": 10,
+      "brand": "Samsung",
+      "rating": 4.6,
+      "discount": 15,
+      "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "4K smart TV with crystal-clear picture quality.",
+      "variants": [
+        {
+          "id": "62-v1",
+          "size": "43 Inch",
+          "price": 54999,
+          "stock": 3
+        },
+        {
+          "id": "62-v2",
+          "size": "50 Inch",
+          "price": 64899,
+          "stock": 3
+        },
+        {
+          "id": "62-v3",
+          "size": "55 Inch",
+          "price": 74249,
+          "stock": 4
+        }
+      ]
+    },
+    {
+      "id": "63",
+      "name": "LG 55 Inch OLED",
+      "category": "Television",
+      "price": 119999,
+      "stock": 6,
+      "brand": "LG",
+      "rating": 4.9,
+      "discount": 8,
+      "image": "https://images.unsplash.com/photo-1461151304267-38535e780c79?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Premium OLED television with stunning contrast.",
+      "variants": [
+        {
+          "id": "63-v1",
+          "size": "43 Inch",
+          "price": 119999,
+          "stock": 2
+        },
+        {
+          "id": "63-v2",
+          "size": "50 Inch",
+          "price": 141599,
+          "stock": 2
+        },
+        {
+          "id": "63-v3",
+          "size": "55 Inch",
+          "price": 161999,
+          "stock": 2
+        }
+      ]
+    },
+    {
+      "id": "64",
+      "name": "OnePlus 43 Inch TV",
+      "category": "Television",
+      "price": 29999,
+      "stock": 15,
+      "brand": "OnePlus",
+      "rating": 4.4,
+      "discount": 18,
+      "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Smart Android television with 4K resolution.",
+      "variants": [
+        {
+          "id": "64-v1",
+          "size": "43 Inch",
+          "price": 29999,
+          "stock": 5
+        },
+        {
+          "id": "64-v2",
+          "size": "50 Inch",
+          "price": 35399,
+          "stock": 5
+        },
+        {
+          "id": "64-v3",
+          "size": "55 Inch",
+          "price": 40499,
+          "stock": 5
+        }
+      ]
+    },
+    {
+      "id": "65",
+      "name": "Mi 43 Inch 4K TV",
+      "category": "Television",
+      "price": 26999,
+      "stock": 20,
+      "brand": "Xiaomi",
+      "rating": 4.4,
+      "discount": 20,
+      "image": "https://images.unsplash.com/photo-1461151304267-38535e780c79?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Affordable 4K smart television.",
+      "variants": [
+        {
+          "id": "65-v1",
+          "size": "43 Inch",
+          "price": 26999,
+          "stock": 6
+        },
+        {
+          "id": "65-v2",
+          "size": "50 Inch",
+          "price": 31859,
+          "stock": 6
+        },
+        {
+          "id": "65-v3",
+          "size": "55 Inch",
+          "price": 36449,
+          "stock": 8
+        }
+      ]
+    },
+    {
+      "id": "66",
+      "name": "TCL 55 Inch QLED",
+      "category": "Television",
+      "price": 45999,
+      "stock": 11,
+      "brand": "TCL",
+      "rating": 4.5,
+      "discount": 15,
+      "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "QLED smart TV with rich colors.",
+      "variants": [
+        {
+          "id": "66-v1",
+          "size": "43 Inch",
+          "price": 45999,
+          "stock": 3
+        },
+        {
+          "id": "66-v2",
+          "size": "50 Inch",
+          "price": 54279,
+          "stock": 3
+        },
+        {
+          "id": "66-v3",
+          "size": "55 Inch",
+          "price": 62099,
+          "stock": 5
+        }
+      ]
+    },
+    {
+      "id": "67",
+      "name": "Hisense 50 Inch 4K",
+      "category": "Television",
+      "price": 37999,
+      "stock": 14,
+      "brand": "Hisense",
+      "rating": 4.3,
+      "discount": 17,
+      "image": "https://images.unsplash.com/photo-1461151304267-38535e780c79?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "4K smart TV with modern design.",
+      "variants": [
+        {
+          "id": "67-v1",
+          "size": "43 Inch",
+          "price": 37999,
+          "stock": 4
+        },
+        {
+          "id": "67-v2",
+          "size": "50 Inch",
+          "price": 44839,
+          "stock": 4
+        },
+        {
+          "id": "67-v3",
+          "size": "55 Inch",
+          "price": 51299,
+          "stock": 6
+        }
+      ]
+    },
+    {
+      "id": "68",
+      "name": "Sony Bravia 55 Inch",
+      "category": "Television",
+      "price": 74999,
+      "stock": 8,
+      "brand": "Sony",
+      "rating": 4.8,
+      "discount": 10,
+      "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Premium Sony smart TV with excellent picture quality.",
+      "variants": [
+        {
+          "id": "68-v1",
+          "size": "43 Inch",
+          "price": 74999,
+          "stock": 2
+        },
+        {
+          "id": "68-v2",
+          "size": "50 Inch",
+          "price": 88499,
+          "stock": 2
+        },
+        {
+          "id": "68-v3",
+          "size": "55 Inch",
+          "price": 101249,
+          "stock": 4
+        }
+      ]
+    },
+    {
+      "id": "69",
+      "name": "Samsung Neo QLED",
+      "category": "Television",
+      "price": 139999,
+      "stock": 5,
+      "brand": "Samsung",
+      "rating": 4.9,
+      "discount": 7,
+      "image": "https://images.unsplash.com/photo-1461151304267-38535e780c79?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Premium QLED television with advanced display technology.",
+      "variants": [
+        {
+          "id": "69-v1",
+          "size": "43 Inch",
+          "price": 139999,
+          "stock": 1
+        },
+        {
+          "id": "69-v2",
+          "size": "50 Inch",
+          "price": 165199,
+          "stock": 1
+        },
+        {
+          "id": "69-v3",
+          "size": "55 Inch",
+          "price": 188999,
+          "stock": 3
+        }
+      ]
+    },
+    {
+      "id": "70",
+      "name": "LG 43 Inch Smart TV",
+      "category": "Television",
+      "price": 34999,
+      "stock": 18,
+      "brand": "LG",
+      "rating": 4.5,
+      "discount": 15,
+      "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Smart TV with sharp picture and smart features.",
+      "variants": [
+        {
+          "id": "70-v1",
+          "size": "43 Inch",
+          "price": 34999,
+          "stock": 6
+        },
+        {
+          "id": "70-v2",
+          "size": "50 Inch",
+          "price": 41299,
+          "stock": 6
+        },
+        {
+          "id": "70-v3",
+          "size": "55 Inch",
+          "price": 47249,
+          "stock": 6
+        }
+      ]
+    },
+    {
+      "id": "71",
+      "name": "Canon EOS 1500D",
+      "category": "Camera",
+      "price": 45999,
+      "stock": 10,
+      "brand": "Canon",
+      "rating": 4.6,
+      "discount": 10,
+      "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "DSLR camera suitable for photography beginners.",
+      "variants": [
+        {
+          "id": "71-v1",
+          "size": "Body Only",
+          "price": 45999,
+          "stock": 3
+        },
+        {
+          "id": "71-v2",
+          "size": "18-55mm Kit",
+          "price": 49679,
+          "stock": 3
+        },
+        {
+          "id": "71-v3",
+          "size": "18-135mm Kit",
+          "price": 54279,
+          "stock": 4
+        }
+      ]
+    },
+    {
+      "id": "72",
+      "name": "Canon EOS R50",
+      "category": "Camera",
+      "price": 69999,
+      "stock": 8,
+      "brand": "Canon",
+      "rating": 4.8,
+      "discount": 8,
+      "image": "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Compact mirrorless camera with excellent image quality.",
+      "variants": [
+        {
+          "id": "72-v1",
+          "size": "Body Only",
+          "price": 69999,
+          "stock": 2
+        },
+        {
+          "id": "72-v2",
+          "size": "18-55mm Kit",
+          "price": 75599,
+          "stock": 2
+        },
+        {
+          "id": "72-v3",
+          "size": "18-135mm Kit",
+          "price": 82599,
+          "stock": 4
+        }
+      ]
+    },
+    {
+      "id": "73",
+      "name": "Sony Alpha A6400",
+      "category": "Camera",
+      "price": 79999,
+      "stock": 7,
+      "brand": "Sony",
+      "rating": 4.8,
+      "discount": 10,
+      "image": "https://images.unsplash.com/photo-1510127034890-ba27508e9f1c?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Mirrorless camera with fast autofocus.",
+      "variants": [
+        {
+          "id": "73-v1",
+          "size": "Body Only",
+          "price": 79999,
+          "stock": 2
+        },
+        {
+          "id": "73-v2",
+          "size": "18-55mm Kit",
+          "price": 86399,
+          "stock": 2
+        },
+        {
+          "id": "73-v3",
+          "size": "18-135mm Kit",
+          "price": 94399,
+          "stock": 3
+        }
+      ]
+    },
+    {
+      "id": "74",
+      "name": "Sony Alpha A7 IV",
+      "category": "Camera",
+      "price": 179999,
+      "stock": 4,
+      "brand": "Sony",
+      "rating": 4.9,
+      "discount": 5,
+      "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Professional full-frame mirrorless camera.",
+      "variants": [
+        {
+          "id": "74-v1",
+          "size": "Body Only",
+          "price": 179999,
+          "stock": 1
+        },
+        {
+          "id": "74-v2",
+          "size": "18-55mm Kit",
+          "price": 194399,
+          "stock": 1
+        },
+        {
+          "id": "74-v3",
+          "size": "18-135mm Kit",
+          "price": 212399,
+          "stock": 2
+        }
+      ]
+    },
+    {
+      "id": "75",
+      "name": "Nikon D7500",
+      "category": "Camera",
+      "price": 84999,
+      "stock": 6,
+      "brand": "Nikon",
+      "rating": 4.7,
+      "discount": 8,
+      "image": "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Advanced DSLR camera for photography enthusiasts.",
+      "variants": [
+        {
+          "id": "75-v1",
+          "size": "Body Only",
+          "price": 84999,
+          "stock": 2
+        },
+        {
+          "id": "75-v2",
+          "size": "18-55mm Kit",
+          "price": 91799,
+          "stock": 2
+        },
+        {
+          "id": "75-v3",
+          "size": "18-135mm Kit",
+          "price": 100299,
+          "stock": 2
+        }
+      ]
+    },
+    {
+      "id": "76",
+      "name": "Nikon Z50",
+      "category": "Camera",
+      "price": 72999,
+      "stock": 8,
+      "brand": "Nikon",
+      "rating": 4.6,
+      "discount": 10,
+      "image": "https://images.unsplash.com/photo-1510127034890-ba27508e9f1c?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Compact mirrorless camera with high-quality images.",
+      "variants": [
+        {
+          "id": "76-v1",
+          "size": "Body Only",
+          "price": 72999,
+          "stock": 2
+        },
+        {
+          "id": "76-v2",
+          "size": "18-55mm Kit",
+          "price": 78839,
+          "stock": 2
+        },
+        {
+          "id": "76-v3",
+          "size": "18-135mm Kit",
+          "price": 86139,
+          "stock": 4
+        }
+      ]
+    },
+    {
+      "id": "77",
+      "name": "GoPro Hero 12",
+      "category": "Camera",
+      "price": 44999,
+      "stock": 15,
+      "brand": "GoPro",
+      "rating": 4.8,
+      "discount": 12,
+      "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Action camera designed for adventure and travel.",
+      "variants": [
+        {
+          "id": "77-v1",
+          "size": "Body Only",
+          "price": 44999,
+          "stock": 5
+        },
+        {
+          "id": "77-v2",
+          "size": "18-55mm Kit",
+          "price": 48599,
+          "stock": 5
+        },
+        {
+          "id": "77-v3",
+          "size": "18-135mm Kit",
+          "price": 53099,
+          "stock": 5
+        }
+      ]
+    },
+    {
+      "id": "78",
+      "name": "DJI Osmo Action 4",
+      "category": "Camera",
+      "price": 36999,
+      "stock": 12,
+      "brand": "DJI",
+      "rating": 4.7,
+      "discount": 10,
+      "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Durable action camera with excellent stabilization.",
+      "variants": [
+        {
+          "id": "78-v1",
+          "size": "Body Only",
+          "price": 36999,
+          "stock": 4
+        },
+        {
+          "id": "78-v2",
+          "size": "18-55mm Kit",
+          "price": 39959,
+          "stock": 4
+        },
+        {
+          "id": "78-v3",
+          "size": "18-135mm Kit",
+          "price": 43659,
+          "stock": 4
+        }
+      ]
+    },
+    {
+      "id": "79",
+      "name": "Fujifilm X-S20",
+      "category": "Camera",
+      "price": 119999,
+      "stock": 5,
+      "brand": "Fujifilm",
+      "rating": 4.8,
+      "discount": 7,
+      "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Versatile mirrorless camera for photo and video.",
+      "variants": [
+        {
+          "id": "79-v1",
+          "size": "Body Only",
+          "price": 119999,
+          "stock": 1
+        },
+        {
+          "id": "79-v2",
+          "size": "18-55mm Kit",
+          "price": 129599,
+          "stock": 1
+        },
+        {
+          "id": "79-v3",
+          "size": "18-135mm Kit",
+          "price": 141599,
+          "stock": 3
+        }
+      ]
+    },
+    {
+      "id": "80",
+      "name": "Panasonic Lumix G95",
+      "category": "Camera",
+      "price": 69999,
+      "stock": 6,
+      "brand": "Panasonic",
+      "rating": 4.5,
+      "discount": 12,
+      "image": "https://images.unsplash.com/photo-1510127034890-ba27508e9f1c?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Mirrorless camera with strong video capabilities.",
+      "variants": [
+        {
+          "id": "80-v1",
+          "size": "Body Only",
+          "price": 69999,
+          "stock": 2
+        },
+        {
+          "id": "80-v2",
+          "size": "18-55mm Kit",
+          "price": 75599,
+          "stock": 2
+        },
+        {
+          "id": "80-v3",
+          "size": "18-135mm Kit",
+          "price": 82599,
+          "stock": 2
+        }
+      ]
+    },
+    {
+      "id": "81",
+      "name": "Nike Air Max",
+      "category": "Shoes",
+      "price": 9999,
+      "stock": 30,
+      "brand": "Nike",
+      "rating": 4.6,
+      "discount": 20,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Comfortable everyday sneakers with modern design.",
+      "variants": [
+        {
+          "id": "81-v1",
+          "size": "UK 7",
+          "color": "Black",
+          "price": 9999,
+          "stock": 10
+        },
+        {
+          "id": "81-v2",
+          "size": "UK 8",
+          "color": "White",
+          "price": 9999,
+          "stock": 10
+        },
+        {
+          "id": "81-v3",
+          "size": "UK 9",
+          "color": "Blue",
+          "price": 9999,
+          "stock": 10
+        }
+      ]
+    },
+    {
+      "id": "82",
+      "name": "Nike Revolution 6",
+      "category": "Shoes",
+      "price": 4999,
+      "stock": 40,
+      "brand": "Nike",
+      "rating": 4.4,
+      "discount": 25,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Lightweight running shoes for daily workouts.",
+      "variants": [
+        {
+          "id": "82-v1",
+          "size": "UK 7",
+          "color": "Black",
+          "price": 4999,
+          "stock": 13
+        },
+        {
+          "id": "82-v2",
+          "size": "UK 8",
+          "color": "White",
+          "price": 4999,
+          "stock": 13
+        },
+        {
+          "id": "82-v3",
+          "size": "UK 9",
+          "color": "Blue",
+          "price": 4999,
+          "stock": 14
+        }
+      ]
+    },
+    {
+      "id": "83",
+      "name": "Adidas Ultraboost",
+      "category": "Shoes",
+      "price": 12999,
+      "stock": 20,
+      "brand": "Adidas",
+      "rating": 4.7,
+      "discount": 18,
+      "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Premium running shoes with responsive cushioning.",
+      "variants": [
+        {
+          "id": "83-v1",
+          "size": "UK 7",
+          "color": "Black",
+          "price": 12999,
+          "stock": 6
+        },
+        {
+          "id": "83-v2",
+          "size": "UK 8",
+          "color": "White",
+          "price": 12999,
+          "stock": 6
+        },
+        {
+          "id": "83-v3",
+          "size": "UK 9",
+          "color": "Blue",
+          "price": 12999,
+          "stock": 8
+        }
+      ]
+    },
+    {
+      "id": "84",
+      "name": "Adidas Grand Court",
+      "category": "Shoes",
+      "price": 5999,
+      "stock": 35,
+      "brand": "Adidas",
+      "rating": 4.5,
+      "discount": 20,
+      "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Classic casual sneakers for everyday wear.",
+      "variants": [
+        {
+          "id": "84-v1",
+          "size": "UK 7",
+          "color": "Black",
+          "price": 5999,
+          "stock": 11
+        },
+        {
+          "id": "84-v2",
+          "size": "UK 8",
+          "color": "White",
+          "price": 5999,
+          "stock": 11
+        },
+        {
+          "id": "84-v3",
+          "size": "UK 9",
+          "color": "Blue",
+          "price": 5999,
+          "stock": 13
+        }
+      ]
+    },
+    {
+      "id": "85",
+      "name": "Puma Smash",
+      "category": "Shoes",
+      "price": 3999,
+      "stock": 45,
+      "brand": "Puma",
+      "rating": 4.3,
+      "discount": 25,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Classic sneakers with a simple stylish design.",
+      "variants": [
+        {
+          "id": "85-v1",
+          "size": "UK 7",
+          "color": "Black",
+          "price": 3999,
+          "stock": 15
+        },
+        {
+          "id": "85-v2",
+          "size": "UK 8",
+          "color": "White",
+          "price": 3999,
+          "stock": 15
+        },
+        {
+          "id": "85-v3",
+          "size": "UK 9",
+          "color": "Blue",
+          "price": 3999,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": "86",
+      "name": "Puma Running Shoes",
+      "category": "Shoes",
+      "price": 5499,
+      "stock": 30,
+      "brand": "Puma",
+      "rating": 4.4,
+      "discount": 18,
+      "image": "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Comfortable shoes designed for running.",
+      "variants": [
+        {
+          "id": "86-v1",
+          "size": "UK 7",
+          "color": "Black",
+          "price": 5499,
+          "stock": 10
+        },
+        {
+          "id": "86-v2",
+          "size": "UK 8",
+          "color": "White",
+          "price": 5499,
+          "stock": 10
+        },
+        {
+          "id": "86-v3",
+          "size": "UK 9",
+          "color": "Blue",
+          "price": 5499,
+          "stock": 10
+        }
+      ]
+    },
+    {
+      "id": "87",
+      "name": "New Balance 574",
+      "category": "Shoes",
+      "price": 8999,
+      "stock": 18,
+      "brand": "New Balance",
+      "rating": 4.6,
+      "discount": 15,
+      "image": "https://images.unsplash.com/photo-1495555961986-6d4c1ecb7be3?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Classic lifestyle shoes with comfortable cushioning.",
+      "variants": [
+        {
+          "id": "87-v1",
+          "size": "UK 7",
+          "color": "Black",
+          "price": 8999,
+          "stock": 6
+        },
+        {
+          "id": "87-v2",
+          "size": "UK 8",
+          "color": "White",
+          "price": 8999,
+          "stock": 6
+        },
+        {
+          "id": "87-v3",
+          "size": "UK 9",
+          "color": "Blue",
+          "price": 8999,
+          "stock": 6
+        }
+      ]
+    },
+    {
+      "id": "88",
+      "name": "Skechers Go Walk",
+      "category": "Shoes",
+      "price": 6999,
+      "stock": 25,
+      "brand": "Skechers",
+      "rating": 4.5,
+      "discount": 20,
+      "image": "https://images.unsplash.com/photo-1495555961986-6d4c1ecb7be3?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Comfortable walking shoes for everyday use.",
+      "variants": [
+        {
+          "id": "88-v1",
+          "size": "UK 7",
+          "color": "Black",
+          "price": 6999,
+          "stock": 8
+        },
+        {
+          "id": "88-v2",
+          "size": "UK 8",
+          "color": "White",
+          "price": 6999,
+          "stock": 8
+        },
+        {
+          "id": "88-v3",
+          "size": "UK 9",
+          "color": "Blue",
+          "price": 6999,
+          "stock": 9
+        }
+      ]
+    },
+    {
+      "id": "89",
+      "name": "Reebok Classic",
+      "category": "Shoes",
+      "price": 4999,
+      "stock": 28,
+      "brand": "Reebok",
+      "rating": 4.4,
+      "discount": 22,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Classic sneakers with a timeless design.",
+      "variants": [
+        {
+          "id": "89-v1",
+          "size": "UK 7",
+          "color": "Black",
+          "price": 4999,
+          "stock": 9
+        },
+        {
+          "id": "89-v2",
+          "size": "UK 8",
+          "color": "White",
+          "price": 4999,
+          "stock": 9
+        },
+        {
+          "id": "89-v3",
+          "size": "UK 9",
+          "color": "Blue",
+          "price": 4999,
+          "stock": 10
+        }
+      ]
+    },
+    {
+      "id": "90",
+      "name": "Asics Gel Contend",
+      "category": "Shoes",
+      "price": 5999,
+      "stock": 22,
+      "brand": "Asics",
+      "rating": 4.6,
+      "discount": 18,
+      "image": "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Running shoes with comfortable gel cushioning.",
+      "variants": [
+        {
+          "id": "90-v1",
+          "size": "UK 7",
+          "color": "Black",
+          "price": 5999,
+          "stock": 7
+        },
+        {
+          "id": "90-v2",
+          "size": "UK 8",
+          "color": "White",
+          "price": 5999,
+          "stock": 7
+        },
+        {
+          "id": "90-v3",
+          "size": "UK 9",
+          "color": "Blue",
+          "price": 5999,
+          "stock": 8
+        }
+      ]
+    },
+    {
+      "id": "91",
+      "name": "American Tourister Backpack",
+      "category": "Bags",
+      "price": 2499,
+      "stock": 40,
+      "brand": "American Tourister",
+      "rating": 4.4,
+      "discount": 20,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Durable backpack suitable for college and travel.",
+      "variants": [
+        {
+          "id": "91-v1",
+          "color": "Black",
+          "price": 2499,
+          "stock": 13
+        },
+        {
+          "id": "91-v2",
+          "color": "Blue",
+          "price": 2574,
+          "stock": 13
+        },
+        {
+          "id": "91-v3",
+          "color": "White",
+          "price": 2649,
+          "stock": 14
+        }
+      ]
+    },
+    {
+      "id": "92",
+      "name": "Skybags Casual Backpack",
+      "category": "Bags",
+      "price": 1999,
+      "stock": 35,
+      "brand": "Skybags",
+      "rating": 4.3,
+      "discount": 25,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Stylish backpack with multiple compartments.",
+      "variants": [
+        {
+          "id": "92-v1",
+          "color": "Black",
+          "price": 1999,
+          "stock": 11
+        },
+        {
+          "id": "92-v2",
+          "color": "Blue",
+          "price": 2059,
+          "stock": 11
+        },
+        {
+          "id": "92-v3",
+          "color": "White",
+          "price": 2119,
+          "stock": 13
+        }
+      ]
+    },
+    {
+      "id": "93",
+      "name": "Wildcraft Laptop Backpack",
+      "category": "Bags",
+      "price": 2999,
+      "stock": 30,
+      "brand": "Wildcraft",
+      "rating": 4.5,
+      "discount": 18,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Laptop backpack with padded compartments.",
+      "variants": [
+        {
+          "id": "93-v1",
+          "color": "Black",
+          "price": 2999,
+          "stock": 10
+        },
+        {
+          "id": "93-v2",
+          "color": "Blue",
+          "price": 3089,
+          "stock": 10
+        },
+        {
+          "id": "93-v3",
+          "color": "White",
+          "price": 3179,
+          "stock": 10
+        }
+      ]
+    },
+    {
+      "id": "94",
+      "name": "Nike Sports Backpack",
+      "category": "Bags",
+      "price": 3499,
+      "stock": 25,
+      "brand": "Nike",
+      "rating": 4.6,
+      "discount": 15,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Sports backpack suitable for gym and travel.",
+      "variants": [
+        {
+          "id": "94-v1",
+          "color": "Black",
+          "price": 3499,
+          "stock": 8
+        },
+        {
+          "id": "94-v2",
+          "color": "Blue",
+          "price": 3604,
+          "stock": 8
+        },
+        {
+          "id": "94-v3",
+          "color": "White",
+          "price": 3709,
+          "stock": 9
+        }
+      ]
+    },
+    {
+      "id": "95",
+      "name": "Adidas Classic Backpack",
+      "category": "Bags",
+      "price": 2999,
+      "stock": 28,
+      "brand": "Adidas",
+      "rating": 4.5,
+      "discount": 20,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Classic everyday backpack with spacious storage.",
+      "variants": [
+        {
+          "id": "95-v1",
+          "color": "Black",
+          "price": 2999,
+          "stock": 9
+        },
+        {
+          "id": "95-v2",
+          "color": "Blue",
+          "price": 3089,
+          "stock": 9
+        },
+        {
+          "id": "95-v3",
+          "color": "White",
+          "price": 3179,
+          "stock": 10
+        }
+      ]
+    },
+    {
+      "id": "96",
+      "name": "F Gear Laptop Bag",
+      "category": "Bags",
+      "price": 2299,
+      "stock": 32,
+      "brand": "F Gear",
+      "rating": 4.3,
+      "discount": 18,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Professional laptop bag for office and business use.",
+      "variants": [
+        {
+          "id": "96-v1",
+          "color": "Black",
+          "price": 2299,
+          "stock": 10
+        },
+        {
+          "id": "96-v2",
+          "color": "Blue",
+          "price": 2368,
+          "stock": 10
+        },
+        {
+          "id": "96-v3",
+          "color": "White",
+          "price": 2437,
+          "stock": 12
+        }
+      ]
+    },
+    {
+      "id": "97",
+      "name": "Safari Travel Bag",
+      "category": "Bags",
+      "price": 3999,
+      "stock": 20,
+      "brand": "Safari",
+      "rating": 4.4,
+      "discount": 15,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Spacious travel bag for short trips.",
+      "variants": [
+        {
+          "id": "97-v1",
+          "color": "Black",
+          "price": 3999,
+          "stock": 6
+        },
+        {
+          "id": "97-v2",
+          "color": "Blue",
+          "price": 4119,
+          "stock": 6
+        },
+        {
+          "id": "97-v3",
+          "color": "White",
+          "price": 4239,
+          "stock": 8
+        }
+      ]
+    },
+    {
+      "id": "98",
+      "name": "American Tourister Trolley",
+      "category": "Bags",
+      "price": 5999,
+      "stock": 15,
+      "brand": "American Tourister",
+      "rating": 4.7,
+      "discount": 12,
+      "image": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Durable trolley bag suitable for air travel.",
+      "variants": [
+        {
+          "id": "98-v1",
+          "color": "Black",
+          "price": 5999,
+          "stock": 5
+        },
+        {
+          "id": "98-v2",
+          "color": "Blue",
+          "price": 6179,
+          "stock": 5
+        },
+        {
+          "id": "98-v3",
+          "color": "White",
+          "price": 6359,
+          "stock": 5
+        }
+      ]
+    },
+    {
+      "id": "99",
+      "name": "VIP Cabin Trolley",
+      "category": "Bags",
+      "price": 4499,
+      "stock": 18,
+      "brand": "VIP",
+      "rating": 4.5,
+      "discount": 20,
+      "image": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Compact cabin trolley with lightweight construction.",
+      "variants": [
+        {
+          "id": "99-v1",
+          "color": "Black",
+          "price": 4499,
+          "stock": 6
+        },
+        {
+          "id": "99-v2",
+          "color": "Blue",
+          "price": 4634,
+          "stock": 6
+        },
+        {
+          "id": "99-v3",
+          "color": "White",
+          "price": 4769,
+          "stock": 6
+        }
+      ]
+    },
+    {
+      "id": "100",
+      "name": "Wildcraft Travel Duffel",
+      "category": "Bags",
+      "price": 2799,
+      "stock": 25,
+      "brand": "Wildcraft",
+      "rating": 4.4,
+      "discount": 18,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Durable duffel bag for travel and outdoor activities.",
+      "variants": [
+        {
+          "id": "100-v1",
+          "color": "Black",
+          "price": 2799,
+          "stock": 8
+        },
+        {
+          "id": "100-v2",
+          "color": "Blue",
+          "price": 2883,
+          "stock": 8
+        },
+        {
+          "id": "100-v3",
+          "color": "White",
+          "price": 2967,
+          "stock": 9
+        }
+      ]
+    }
+  ],
+  "cart": [
+    {
+      "id": "4Tq8l9_X3m0",
+      "name": "iPhone 15",
+      "category": "Mobile",
+      "price": 69999,
+      "stock": 8,
+      "brand": "Apple",
+      "rating": 4.8,
+      "discount": 10,
+      "image": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Apple smartphone with powerful performance and advanced camera.",
+      "variants": [
+        {
+          "id": "1-v1",
+          "ram": "8GB",
+          "storage": "128GB",
+          "color": "Black",
+          "price": 69999,
+          "stock": 8
+        },
+        {
+          "id": "1-v2",
+          "ram": "8GB",
+          "storage": "256GB",
+          "color": "Blue",
+          "price": 75599,
+          "stock": 8
+        },
+        {
+          "id": "1-v3",
+          "ram": "12GB",
+          "storage": "256GB",
+          "color": "Silver",
+          "price": 81199,
+          "stock": 9
+        }
+      ],
+      "selectedVariant": {
+        "id": "1-v1",
+        "ram": "8GB",
+        "storage": "128GB",
+        "color": "Black",
+        "price": 69999,
+        "stock": 8
+      },
+      "cartItemId": "1-1-v1",
+      "quantity": 2
+    },
+    {
+      "id": "9smwrJfj2LU",
+      "name": "American Tourister Backpack",
+      "category": "Bags",
+      "price": 2499,
+      "stock": 13,
+      "brand": "American Tourister",
+      "rating": 4.4,
+      "discount": 20,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Durable backpack suitable for college and travel.",
+      "variants": [
+        {
+          "id": "91-v1",
+          "color": "Black",
+          "price": 2499,
+          "stock": 13
+        },
+        {
+          "id": "91-v2",
+          "color": "Blue",
+          "price": 2574,
+          "stock": 13
+        },
+        {
+          "id": "91-v3",
+          "color": "White",
+          "price": 2649,
+          "stock": 14
+        }
+      ],
+      "selectedVariant": {
+        "id": "91-v1",
+        "color": "Black",
+        "price": 2499,
+        "stock": 13
+      },
+      "cartItemId": "91-91-v1",
+      "quantity": 2
+    },
+    {
+      "id": "56R_6hrF6DQ",
+      "name": "iPhone 15",
+      "category": "Mobile",
+      "price": 69999,
+      "stock": 8,
+      "brand": "Apple",
+      "rating": 4.8,
+      "discount": 10,
+      "image": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Apple smartphone with powerful performance and advanced camera.",
+      "variants": [
+        {
+          "id": "1-v1",
+          "ram": "8GB",
+          "storage": "128GB",
+          "color": "Black",
+          "price": 69999,
+          "stock": 8
+        },
+        {
+          "id": "1-v2",
+          "ram": "8GB",
+          "storage": "256GB",
+          "color": "Blue",
+          "price": 75599,
+          "stock": 8
+        },
+        {
+          "id": "1-v3",
+          "ram": "12GB",
+          "storage": "256GB",
+          "color": "Silver",
+          "price": 81199,
+          "stock": 9
+        }
+      ],
+      "selectedVariant": {
+        "id": "1-v1",
+        "ram": "8GB",
+        "storage": "128GB",
+        "color": "Black",
+        "price": 69999,
+        "stock": 8
+      },
+      "cartItemId": "1-1-v1",
+      "quantity": 1,
+      "userId": "WuM2T8Kh3Jc"
+    },
+    {
+      "id": "Y77xlojEIvI",
+      "name": "iPhone 15 Pro",
+      "category": "Mobile",
+      "price": 129999,
+      "stock": 5,
+      "brand": "Apple",
+      "rating": 4.9,
+      "discount": 8,
+      "image": "https://images.unsplash.com/photo-1696446701796-da61225697cc?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Premium Apple smartphone with Pro camera system.",
+      "variants": [
+        {
+          "id": "2-v1",
+          "ram": "8GB",
+          "storage": "128GB",
+          "color": "Black",
+          "price": 129999,
+          "stock": 5
+        },
+        {
+          "id": "2-v2",
+          "ram": "8GB",
+          "storage": "256GB",
+          "color": "Blue",
+          "price": 140399,
+          "stock": 5
+        },
+        {
+          "id": "2-v3",
+          "ram": "12GB",
+          "storage": "256GB",
+          "color": "Silver",
+          "price": 150799,
+          "stock": 5
+        }
+      ],
+      "selectedVariant": {
+        "id": "2-v1",
+        "ram": "8GB",
+        "storage": "128GB",
+        "color": "Black",
+        "price": 129999,
+        "stock": 5
+      },
+      "cartItemId": "2-2-v1",
+      "quantity": 4,
+      "userId": "KcHus_N9jhQ"
+    },
+    {
+      "id": "c15CoT91IYo",
+      "name": "iPhone 15 Pro",
+      "category": "Mobile",
+      "price": 129999,
+      "stock": 5,
+      "brand": "Apple",
+      "rating": 4.9,
+      "discount": 8,
+      "image": "https://images.unsplash.com/photo-1696446701796-da61225697cc?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Premium Apple smartphone with Pro camera system.",
+      "variants": [
+        {
+          "id": "2-v1",
+          "ram": "8GB",
+          "storage": "128GB",
+          "color": "Black",
+          "price": 129999,
+          "stock": 5
+        },
+        {
+          "id": "2-v2",
+          "ram": "8GB",
+          "storage": "256GB",
+          "color": "Blue",
+          "price": 140399,
+          "stock": 5
+        },
+        {
+          "id": "2-v3",
+          "ram": "12GB",
+          "storage": "256GB",
+          "color": "Silver",
+          "price": 150799,
+          "stock": 5
+        }
+      ],
+      "selectedVariant": {
+        "id": "2-v1",
+        "ram": "8GB",
+        "storage": "128GB",
+        "color": "Black",
+        "price": 129999,
+        "stock": 5
+      },
+      "cartItemId": "2-2-v1",
+      "quantity": 2,
+      "userId": "_N_IIgHJfpY"
+    },
+    {
+      "id": "UN6Zs16F43o",
+      "name": "iPhone 15 Pro",
+      "category": "Mobile",
+      "price": 150799,
+      "stock": 5,
+      "brand": "Apple",
+      "rating": 4.9,
+      "discount": 8,
+      "image": "https://images.unsplash.com/photo-1696446701796-da61225697cc?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Premium Apple smartphone with Pro camera system.",
+      "variants": [
+        {
+          "id": "2-v1",
+          "ram": "8GB",
+          "storage": "128GB",
+          "color": "Black",
+          "price": 129999,
+          "stock": 5
+        },
+        {
+          "id": "2-v2",
+          "ram": "8GB",
+          "storage": "256GB",
+          "color": "Blue",
+          "price": 140399,
+          "stock": 5
+        },
+        {
+          "id": "2-v3",
+          "ram": "12GB",
+          "storage": "256GB",
+          "color": "Silver",
+          "price": 150799,
+          "stock": 5
+        }
+      ],
+      "selectedVariant": {
+        "id": "2-v3",
+        "ram": "12GB",
+        "storage": "256GB",
+        "color": "Silver",
+        "price": 150799,
+        "stock": 5
+      },
+      "cartItemId": "2-2-v3",
+      "quantity": 1,
+      "userId": "_N_IIgHJfpY"
+    },
+    {
+      "id": "jQij7AEuNto",
+      "name": "iPhone 15 Pro",
+      "category": "Mobile",
+      "price": 129999,
+      "stock": 5,
+      "brand": "Apple",
+      "rating": 4.9,
+      "discount": 8,
+      "image": "https://images.unsplash.com/photo-1696446701796-da61225697cc?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Premium Apple smartphone with Pro camera system.",
+      "variants": [
+        {
+          "id": "2-v1",
+          "ram": "8GB",
+          "storage": "128GB",
+          "color": "Black",
+          "price": 129999,
+          "stock": 5
+        },
+        {
+          "id": "2-v2",
+          "ram": "8GB",
+          "storage": "256GB",
+          "color": "Blue",
+          "price": 140399,
+          "stock": 5
+        },
+        {
+          "id": "2-v3",
+          "ram": "12GB",
+          "storage": "256GB",
+          "color": "Silver",
+          "price": 150799,
+          "stock": 5
+        }
+      ],
+      "selectedVariant": {
+        "id": "2-v1",
+        "ram": "8GB",
+        "storage": "128GB",
+        "color": "Black",
+        "price": 129999,
+        "stock": 5
+      },
+      "cartItemId": "2-2-v1",
+      "quantity": 1,
+      "userId": 9
+    }
+  ],
+  "orders": [
+    {
+      "id": "OZaGbr_KK0c",
+      "userId": "72NaWnqQv3E",
+      "userName": "ishee",
+      "userEmail": "ishee@gmail.com",
+      "items": [
+        {
+          "productId": "1",
+          "name": "iPhone 15",
+          "category": "Mobile",
+          "price": 69999,
+          "brand": "Apple",
+          "rating": 4.8,
+          "discount": 10,
+          "description": "Apple smartphone with powerful performance and advanced camera.",
+          "image": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        }
+      ],
+      "total": 69999,
+      "date": "2026-08-21T05:01:07.906Z",
+      "status": "Placed"
+    },
+    {
+      "id": "MT6bQof4zpc",
+      "userId": "72NaWnqQv3E",
+      "userName": "ishee",
+      "userEmail": "ishee@gmail.com",
+      "items": [
+        {
+          "productId": "2",
+          "name": "iPhone 15 Pro",
+          "category": "Mobile",
+          "price": 129999,
+          "brand": "Apple",
+          "rating": 4.9,
+          "discount": 8,
+          "description": "Premium Apple smartphone with Pro camera system.",
+          "image": "https://images.unsplash.com/photo-1696446701796-da61225697cc?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        }
+      ],
+      "total": 129999,
+      "date": "2026-08-21T05:13:52.919Z",
+      "status": "Placed"
+    },
+    {
+      "userId": "72NaWnqQv3E",
+      "userName": "ishee",
+      "userEmail": "ishee@gmail.com",
+      "items": [
+        {
+          "productId": 3,
+          "name": "iPhone 15 Plus",
+          "category": "Mobile",
+          "price": 79999,
+          "stock": 20,
+          "brand": "Apple",
+          "rating": 4.7,
+          "discount": 12,
+          "description": "Large display smartphone with excellent battery life.",
+          "image": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 2
+        },
+        {
+          "productId": 2,
+          "name": "iPhone 15 Pro",
+          "category": "Mobile",
+          "price": 129999,
+          "stock": 15,
+          "brand": "Apple",
+          "rating": 4.9,
+          "discount": 8,
+          "description": "Premium Apple smartphone with Pro camera system.",
+          "image": "https://images.unsplash.com/photo-1696446701796-da61225697cc?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        }
+      ],
+      "total": 289997,
+      "date": "2026-08-21T05:43:16.945Z",
+      "status": "Placed",
+      "id": "42q45gYm44c"
+    },
+    {
+      "userId": "Z8ciqaAzKcU",
+      "userName": "deepika",
+      "userEmail": "deepika@gmail.com",
+      "items": [
+        {
+          "productId": 7,
+          "name": "OnePlus 12",
+          "category": "Mobile",
+          "price": 64999,
+          "stock": 22,
+          "brand": "OnePlus",
+          "rating": 4.7,
+          "discount": 10,
+          "description": "High-performance smartphone with fast charging.",
+          "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        }
+      ],
+      "total": 64999,
+      "date": "2026-08-21T05:44:21.048Z",
+      "status": "Placed",
+      "id": "MSXe0zVbn4o"
+    },
+    {
+      "userId": "Z8ciqaAzKcU",
+      "userName": "deepika",
+      "userEmail": "deepika@gmail.com",
+      "items": [
+        {
+          "productId": 8,
+          "name": "OnePlus Nord CE 4",
+          "category": "Mobile",
+          "price": 24999,
+          "stock": 35,
+          "brand": "OnePlus",
+          "rating": 4.4,
+          "discount": 15,
+          "description": "Affordable smartphone with smooth performance.",
+          "image": "https://images.unsplash.com/photo-1556656793-08538906a9f8?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 4
+        }
+      ],
+      "total": 99996,
+      "date": "2026-08-21T05:45:04.646Z",
+      "status": "Placed",
+      "id": "-zzCT3BAT7g"
+    },
+    {
+      "userId": "Z8ciqaAzKcU",
+      "userName": "deepika",
+      "userEmail": "deepika@gmail.com",
+      "items": [
+        {
+          "productId": 34,
+          "name": "OnePlus Buds 3",
+          "category": "Earbuds",
+          "price": 5499,
+          "stock": 35,
+          "brand": "OnePlus",
+          "rating": 4.5,
+          "discount": 15,
+          "description": "Wireless earbuds with powerful bass.",
+          "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        }
+      ],
+      "total": 5499,
+      "date": "2026-08-21T05:50:32.629Z",
+      "status": "Placed",
+      "id": "T-NV-3PfxSY"
+    },
+    {
+      "userId": "Z8ciqaAzKcU",
+      "userName": "deepika",
+      "userEmail": "deepika@gmail.com",
+      "items": [
+        {
+          "productId": 21,
+          "name": "Sony WH-1000XM5",
+          "category": "Headphones",
+          "price": 29999,
+          "stock": 20,
+          "brand": "Sony",
+          "rating": 4.8,
+          "discount": 12,
+          "description": "Wireless noise cancelling headphones.",
+          "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        }
+      ],
+      "total": 29999,
+      "date": "2026-08-21T05:55:07.349Z",
+      "status": "Placed",
+      "id": "R-IFm9AZZ2s"
+    },
+    {
+      "userId": "72NaWnqQv3E",
+      "userName": "ishee",
+      "userEmail": "ishee@gmail.com",
+      "items": [
+        {
+          "productId": 1,
+          "name": "iPhone 15",
+          "category": "Mobile",
+          "price": 69999,
+          "stock": 25,
+          "brand": "Apple",
+          "rating": 4.8,
+          "discount": 10,
+          "description": "Apple smartphone with powerful performance and advanced camera.",
+          "image": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        }
+      ],
+      "total": 69999,
+      "date": "2026-08-21T05:56:47.621Z",
+      "status": "Placed",
+      "id": "2Qx2NueuZcs"
+    },
+    {
+      "userId": "72NaWnqQv3E",
+      "userName": "ishee",
+      "userEmail": "ishee@gmail.com",
+      "items": [
+        {
+          "productId": 1,
+          "name": "iPhone 15",
+          "category": "Mobile",
+          "price": 69999,
+          "stock": 25,
+          "brand": "Apple",
+          "rating": 4.8,
+          "discount": 10,
+          "description": "Apple smartphone with powerful performance and advanced camera.",
+          "image": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        }
+      ],
+      "total": 69999,
+      "date": "2026-08-21T06:03:47.602Z",
+      "status": "Placed",
+      "id": "sSXtCL3ugsM"
+    },
+    {
+      "userId": "_N_IIgHJfpY",
+      "userName": "vikram",
+      "userEmail": "vikramsurya2821@gmail.com",
+      "items": [
+        {
+          "productId": 12,
+          "name": "MacBook Pro M3",
+          "category": "Laptop",
+          "price": 169999,
+          "stock": 8,
+          "brand": "Apple",
+          "rating": 4.9,
+          "discount": 5,
+          "description": "Professional laptop with powerful M3 processor.",
+          "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        }
+      ],
+      "total": 169999,
+      "date": "2026-08-21T06:19:45.567Z",
+      "status": "Placed",
+      "id": "c2e-ROIIHTA"
+    },
+    {
+      "userId": "_N_IIgHJfpY",
+      "userName": "vikram",
+      "userEmail": "vikramsurya2821@gmail.com",
+      "items": [
+        {
+          "productId": 23,
+          "name": "JBL Tune 770NC",
+          "category": "Headphones",
+          "price": 6999,
+          "stock": 30,
+          "brand": "JBL",
+          "rating": 4.5,
+          "discount": 18,
+          "description": "Wireless headphones with adaptive noise cancellation.",
+          "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        }
+      ],
+      "total": 6999,
+      "date": "2026-08-21T12:39:53.252Z",
+      "status": "Placed",
+      "id": "hV-lZBLjpx0"
+    },
+    {
+      "userId": "_N_IIgHJfpY",
+      "userName": "vikram",
+      "userEmail": "vikramsurya2821@gmail.com",
+      "items": [
+        {
+          "productId": 2,
+          "name": "iPhone 15 Pro",
+          "category": "Mobile",
+          "price": 129999,
+          "stock": 15,
+          "brand": "Apple",
+          "rating": 4.9,
+          "discount": 8,
+          "description": "Premium Apple smartphone with Pro camera system.",
+          "image": "https://images.unsplash.com/photo-1696446701796-da61225697cc?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 5
+        }
+      ],
+      "total": 649995,
+      "date": "2026-08-21T12:43:39.650Z",
+      "status": "Placed",
+      "id": "zgMcVfo5Mto"
+    },
+    {
+      "userId": "KcHus_N9jhQ",
+      "userName": "saranraj",
+      "userEmail": "saran@gmail.com",
+      "items": [
+        {
+          "productId": 2,
+          "name": "iPhone 15 Pro",
+          "category": "Mobile",
+          "price": 129999,
+          "stock": 15,
+          "brand": "Apple",
+          "rating": 4.9,
+          "discount": 8,
+          "description": "Premium Apple smartphone with Pro camera system.",
+          "image": "https://images.unsplash.com/photo-1696446701796-da61225697cc?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 5
+        }
+      ],
+      "total": 649995,
+      "date": "2026-08-21T13:15:06.789Z",
+      "status": "Placed",
+      "id": "_nzIOPgaXrs"
+    },
+    {
+      "userId": "WuM2T8Kh3Jc",
+      "userName": "dinesh",
+      "userEmail": "dinesh@gmail.com",
+      "items": [
+        {
+          "productId": 7,
+          "name": "OnePlus 12",
+          "category": "Mobile",
+          "price": 64999,
+          "stock": 22,
+          "brand": "OnePlus",
+          "rating": 4.7,
+          "discount": 10,
+          "description": "High-performance smartphone with fast charging.",
+          "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 3
+        },
+        {
+          "productId": 3,
+          "name": "iPhone 15 Plus",
+          "category": "Mobile",
+          "price": 79999,
+          "stock": 20,
+          "brand": "Apple",
+          "rating": 4.7,
+          "discount": 12,
+          "description": "Large display smartphone with excellent battery life.",
+          "image": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 2
+        }
+      ],
+      "total": 354995,
+      "date": "2026-08-21T15:12:26.551Z",
+      "status": "Placed",
+      "id": "8dAbxvJL4mo"
+    },
+    {
+      "userId": "72NaWnqQv3E",
+      "userName": "ishee",
+      "userEmail": "ishee@gmail.com",
+      "items": [
+        {
+          "productId": 2,
+          "name": "iPhone 15 Pro",
+          "category": "Mobile",
+          "price": 129999,
+          "stock": 15,
+          "brand": "Apple",
+          "rating": 4.9,
+          "discount": 8,
+          "description": "Premium Apple smartphone with Pro camera system.",
+          "image": "https://images.unsplash.com/photo-1696446701796-da61225697cc?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 9
+        }
+      ],
+      "total": 1169991,
+      "date": "2026-08-22T05:43:24.004Z",
+      "status": "Placed",
+      "id": "msPlP-3a8CQ"
+    },
+    {
+      "userId": "72NaWnqQv3E",
+      "userName": "ishee",
+      "userEmail": "ishee@gmail.com",
+      "items": [
+        {
+          "productId": 3,
+          "name": "iPhone 15 Plus",
+          "category": "Mobile",
+          "price": 79999,
+          "stock": 20,
+          "brand": "Apple",
+          "rating": 4.7,
+          "discount": 12,
+          "description": "Large display smartphone with excellent battery life.",
+          "image": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 4
+        },
+        {
+          "productId": 4,
+          "name": "Samsung Galaxy S24",
+          "category": "Mobile",
+          "price": 74999,
+          "stock": 18,
+          "brand": "Samsung",
+          "rating": 4.7,
+          "discount": 15,
+          "description": "Premium Samsung smartphone with AMOLED display.",
+          "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        }
+      ],
+      "total": 394995,
+      "date": "2026-08-22T05:52:40.660Z",
+      "status": "Placed",
+      "id": "_1tRa5f64L8"
+    },
+    {
+      "userId": "72NaWnqQv3E",
+      "userName": "ishee",
+      "userEmail": "ishee@gmail.com",
+      "items": [
+        {
+          "productId": 4,
+          "name": "Samsung Galaxy S24",
+          "category": "Mobile",
+          "price": 74999,
+          "stock": 18,
+          "brand": "Samsung",
+          "rating": 4.7,
+          "discount": 15,
+          "description": "Premium Samsung smartphone with AMOLED display.",
+          "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        },
+        {
+          "productId": 2,
+          "name": "iPhone 15 Pro",
+          "category": "Mobile",
+          "price": 129999,
+          "stock": 15,
+          "brand": "Apple",
+          "rating": 4.9,
+          "discount": 8,
+          "description": "Premium Apple smartphone with Pro camera system.",
+          "image": "https://images.unsplash.com/photo-1696446701796-da61225697cc?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        },
+        {
+          "productId": 3,
+          "name": "iPhone 15 Plus",
+          "category": "Mobile",
+          "price": 79999,
+          "stock": 20,
+          "brand": "Apple",
+          "rating": 4.7,
+          "discount": 12,
+          "description": "Large display smartphone with excellent battery life.",
+          "image": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        },
+        {
+          "productId": 1,
+          "name": "iPhone 15",
+          "category": "Mobile",
+          "price": 69999,
+          "stock": 25,
+          "brand": "Apple",
+          "rating": 4.8,
+          "discount": 10,
+          "description": "Apple smartphone with powerful performance and advanced camera.",
+          "image": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        }
+      ],
+      "total": 354996,
+      "date": "2026-08-22T06:03:14.808Z",
+      "status": "Placed",
+      "id": "UeYpE06z9qI"
+    },
+    {
+      "userId": "KcHus_N9jhQ",
+      "userName": "saranraj",
+      "userEmail": "saran@gmail.com",
+      "items": [
+        {
+          "productId": 2,
+          "name": "iPhone 15 Pro",
+          "category": "Mobile",
+          "price": 129999,
+          "stock": 15,
+          "brand": "Apple",
+          "rating": 4.9,
+          "discount": 8,
+          "description": "Premium Apple smartphone with Pro camera system.",
+          "image": "https://images.unsplash.com/photo-1696446701796-da61225697cc?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        }
+      ],
+      "total": 129999,
+      "date": "2026-08-22T06:12:16.315Z",
+      "status": "Placed",
+      "id": "PwI_J5Mc0yc"
+    },
+    {
+      "userId": "_N_IIgHJfpY",
+      "userName": "vikram",
+      "userEmail": "vikramsurya2821@gmail.com",
+      "items": [
+        {
+          "productId": 3,
+          "name": "iPhone 15 Plus",
+          "category": "Mobile",
+          "price": 79999,
+          "stock": 20,
+          "brand": "Apple",
+          "rating": 4.7,
+          "discount": 12,
+          "description": "Large display smartphone with excellent battery life.",
+          "image": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 106
+        }
+      ],
+      "total": 8479894,
+      "date": "2026-08-22T06:34:01.349Z",
+      "status": "Placed",
+      "id": "xtoVtapZpHA"
+    },
+    {
+      "userId": "_N_IIgHJfpY",
+      "userName": "vikram",
+      "userEmail": "vikramsurya2821@gmail.com",
+      "items": [
+        {
+          "productId": 2,
+          "name": "iPhone 15 Pro",
+          "category": "Mobile",
+          "price": 129999,
+          "stock": 15,
+          "brand": "Apple",
+          "rating": 4.9,
+          "discount": 8,
+          "description": "Premium Apple smartphone with Pro camera system.",
+          "image": "https://images.unsplash.com/photo-1696446701796-da61225697cc?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        }
+      ],
+      "total": 129999,
+      "date": "2026-08-22T06:46:05.653Z",
+      "status": "Placed",
+      "id": "2n6hHCzxFeQ"
+    },
+    {
+      "userId": "_N_IIgHJfpY",
+      "userName": "vikram",
+      "userEmail": "vikramsurya2821@gmail.com",
+      "items": [
+        {
+          "productId": 6,
+          "name": "Samsung Galaxy A55",
+          "category": "Mobile",
+          "price": 38999,
+          "stock": 30,
+          "brand": "Samsung",
+          "rating": 4.5,
+          "discount": 18,
+          "description": "Mid-range smartphone with premium design.",
+          "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        },
+        {
+          "productId": 1,
+          "name": "iPhone 15",
+          "category": "Mobile",
+          "price": 69999,
+          "stock": 25,
+          "brand": "Apple",
+          "rating": 4.8,
+          "discount": 10,
+          "description": "Apple smartphone with powerful performance and advanced camera.",
+          "image": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        },
+        {
+          "productId": 4,
+          "name": "Samsung Galaxy S24",
+          "category": "Mobile",
+          "price": 74999,
+          "stock": 18,
+          "brand": "Samsung",
+          "rating": 4.7,
+          "discount": 15,
+          "description": "Premium Samsung smartphone with AMOLED display.",
+          "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        }
+      ],
+      "total": 183997,
+      "date": "2026-08-24T05:14:27.842Z",
+      "status": "Placed",
+      "id": "5pXHYDibUC8"
+    },
+    {
+      "userId": "_N_IIgHJfpY",
+      "userName": "vikram",
+      "userEmail": "vikramsurya2821@gmail.com",
+      "items": [
+        {
+          "productId": "LQ8G5xV4Q7k",
+          "name": "iPhone 15",
+          "category": "Mobile",
+          "price": 69999,
+          "brand": "Apple",
+          "rating": 4.8,
+          "discount": 10,
+          "description": "Apple smartphone with powerful performance and advanced camera.",
+          "image": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        },
+        {
+          "productId": "JnJ0cjBN2sY",
+          "name": "Samsung Galaxy S24",
+          "category": "Mobile",
+          "price": 74999,
+          "brand": "Samsung",
+          "rating": 4.7,
+          "discount": 15,
+          "description": "Premium Samsung smartphone with AMOLED display.",
+          "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        }
+      ],
+      "total": 144998,
+      "date": "2026-08-24T05:57:49.169Z",
+      "status": "Placed",
+      "id": "SjtaTsN-hm8"
+    },
+    {
+      "userId": "Z8ciqaAzKcU",
+      "userName": "deepika",
+      "userEmail": "deepika@gmail.com",
+      "items": [
+        {
+          "productId": "RKNQD8w_www",
+          "name": "Samsung Galaxy S24",
+          "category": "Mobile",
+          "price": 74999,
+          "brand": "Samsung",
+          "rating": 4.7,
+          "discount": 15,
+          "description": "Premium Samsung smartphone with AMOLED display.",
+          "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        },
+        {
+          "productId": "1yrhxEtjwXo",
+          "name": "iPhone 15 Plus",
+          "category": "Mobile",
+          "price": 79999,
+          "brand": "Apple",
+          "rating": 4.7,
+          "discount": 12,
+          "description": "Large display smartphone with excellent battery life.",
+          "image": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        }
+      ],
+      "total": 154998,
+      "date": "2026-08-24T06:21:25.400Z",
+      "status": "Placed",
+      "id": "VjToOmt_Fe4"
+    },
+    {
+      "userId": "6JnZxQ5QIzA",
+      "userName": "surya",
+      "userEmail": "surya@gmail.com",
+      "items": [
+        {
+          "productId": "3YwM5KYXiIE",
+          "name": "Dell XPS 13",
+          "category": "Laptop",
+          "price": 109999,
+          "brand": "Dell",
+          "rating": 4.7,
+          "discount": 10,
+          "description": "Premium compact laptop with high-resolution display.",
+          "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        }
+      ],
+      "total": 109999,
+      "date": "2026-08-24T06:22:50.897Z",
+      "status": "Placed",
+      "id": "e6Ks2YbxRBQ"
+    },
+    {
+      "userId": "6JnZxQ5QIzA",
+      "userName": "surya",
+      "userEmail": "surya@gmail.com",
+      "items": [
+        {
+          "productId": "8dwn7_-sWa8",
+          "name": "Samsung Galaxy S24",
+          "category": "Mobile",
+          "price": 74999,
+          "brand": "Samsung",
+          "rating": 4.7,
+          "discount": 15,
+          "description": "Premium Samsung smartphone with AMOLED display.",
+          "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 3
+        }
+      ],
+      "total": 224997,
+      "date": "2026-08-24T07:00:35.843Z",
+      "status": "Placed",
+      "id": "Nvqzuw4TGC4"
+    },
+    {
+      "userId": "72NaWnqQv3E",
+      "userName": "ishee",
+      "userEmail": "ishee@gmail.com",
+      "items": [
+        {
+          "productId": "KeOQ-HqxHYA",
+          "name": "MacBook Air M3",
+          "category": "Laptop",
+          "price": 114999,
+          "brand": "Apple",
+          "rating": 4.9,
+          "discount": 8,
+          "description": "Lightweight laptop powered by Apple M3 chip.",
+          "image": "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 6
+        }
+      ],
+      "total": 689994,
+      "date": "2026-08-24T07:05:04.342Z",
+      "status": "Placed",
+      "id": "H25MjAR4ea0"
+    },
+    {
+      "userId": "72NaWnqQv3E",
+      "userName": "ishee",
+      "userEmail": "ishee@gmail.com",
+      "items": [
+        {
+          "productId": "wcv6A4PLUQs",
+          "name": "Samsung Galaxy S24",
+          "category": "Mobile",
+          "price": 74999,
+          "brand": "Samsung",
+          "rating": 4.7,
+          "discount": 15,
+          "description": "Premium Samsung smartphone with AMOLED display.",
+          "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        }
+      ],
+      "total": 74999,
+      "date": "2026-08-24T07:06:50.188Z",
+      "status": "Placed",
+      "id": "YrnByp9RLAA"
+    },
+    {
+      "userId": "_N_IIgHJfpY",
+      "userName": "vikram",
+      "userEmail": "vikramsurya2821@gmail.com",
+      "items": [
+        {
+          "productId": "_z_F_nGTr2Y",
+          "name": "iPhone 15",
+          "category": "Mobile",
+          "price": 81199,
+          "brand": "Apple",
+          "rating": 4.8,
+          "discount": 10,
+          "description": "Apple smartphone with powerful performance and advanced camera.",
+          "image": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        },
+        {
+          "productId": "7g9Vc_7PbcU",
+          "name": "Canon EOS 1500D",
+          "category": "Camera",
+          "price": 49679,
+          "brand": "Canon",
+          "rating": 4.6,
+          "discount": 10,
+          "description": "DSLR camera suitable for photography beginners.",
+          "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 2
+        },
+        {
+          "productId": "_DwrVFMVzVM",
+          "name": "iPhone 15",
+          "category": "Mobile",
+          "price": 69999,
+          "brand": "Apple",
+          "rating": 4.8,
+          "discount": 10,
+          "description": "Apple smartphone with powerful performance and advanced camera.",
+          "image": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        },
+        {
+          "productId": "5tA_ZqN9o4Q",
+          "name": "Canon EOS 1500D",
+          "category": "Camera",
+          "price": 45999,
+          "brand": "Canon",
+          "rating": 4.6,
+          "discount": 10,
+          "description": "DSLR camera suitable for photography beginners.",
+          "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        }
+      ],
+      "total": 296555,
+      "date": "2026-08-25T07:35:54.853Z",
+      "status": "Placed",
+      "id": "4yMtuRw2wuA"
+    },
+    {
+      "userId": "_N_IIgHJfpY",
+      "userName": "vikram",
+      "userEmail": "vikramsurya2821@gmail.com",
+      "items": [
+        {
+          "productId": "2",
+          "name": "iPhone 15 Pro",
+          "category": "Mobile",
+          "price": 129999,
+          "brand": "Apple",
+          "rating": 4.9,
+          "discount": 8,
+          "description": "Premium Apple smartphone with Pro camera system.",
+          "image": "https://images.unsplash.com/photo-1696446701796-da61225697cc?auto=format&fit=crop&w=500&q=80",
+          "quantity": 1
+        },
+        {
+          "productId": "3",
+          "name": "iPhone 15 Plus",
+          "category": "Mobile",
+          "price": 79999,
+          "brand": "Apple",
+          "rating": 4.7,
+          "discount": 12,
+          "description": "Large display smartphone with excellent battery life.",
+          "image": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?auto=format&fit=crop&w=500&q=80",
+          "quantity": 1
+        },
+        {
+          "productId": "4",
+          "name": "Samsung Galaxy S24",
+          "category": "Mobile",
+          "price": 74999,
+          "brand": "Samsung",
+          "rating": 4.7,
+          "discount": 15,
+          "description": "Premium Samsung smartphone with AMOLED display.",
+          "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=500&q=80",
+          "quantity": 1
+        }
+      ],
+      "total": 284997,
+      "date": "2026-08-25T07:53:11.263Z",
+      "status": "Placed",
+      "id": "Nlp0x8R9Y2k"
+    },
+    {
+      "userId": "KcHus_N9jhQ",
+      "userName": "saranraj",
+      "userEmail": "saran@gmail.com",
+      "items": [
+        {
+          "productId": "IGb3lRmmF3g",
+          "name": "OnePlus 12",
+          "category": "Mobile",
+          "price": 64999,
+          "brand": "OnePlus",
+          "rating": 4.7,
+          "discount": 10,
+          "description": "High-performance smartphone with fast charging.",
+          "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        },
+        {
+          "productId": "gKRGjdb2aUM",
+          "name": "OnePlus 12",
+          "category": "Mobile",
+          "price": 75399,
+          "brand": "OnePlus",
+          "rating": 4.7,
+          "discount": 10,
+          "description": "High-performance smartphone with fast charging.",
+          "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        }
+      ],
+      "total": 140398,
+      "date": "2026-08-25T08:10:32.534Z",
+      "status": "Placed",
+      "id": "zEetAP_NQmo"
+    },
+    {
+      "userId": "KcHus_N9jhQ",
+      "userName": "saranraj",
+      "userEmail": "saran@gmail.com",
+      "items": [
+        {
+          "productId": "CXGQ5M_zVcI",
+          "name": "Skybags Casual Backpack",
+          "category": "Bags",
+          "price": 1999,
+          "brand": "Skybags",
+          "rating": 4.3,
+          "discount": 25,
+          "description": "Stylish backpack with multiple compartments.",
+          "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        },
+        {
+          "productId": "ykd-S0Q4WQE",
+          "name": "Skybags Casual Backpack",
+          "category": "Bags",
+          "price": 2119,
+          "brand": "Skybags",
+          "rating": 4.3,
+          "discount": 25,
+          "description": "Stylish backpack with multiple compartments.",
+          "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        }
+      ],
+      "total": 4118,
+      "date": "2026-08-28T05:50:43.114Z",
+      "status": "Placed",
+      "id": "1h35yyZ4_u4"
+    },
+    {
+      "userId": "WuM2T8Kh3Jc",
+      "userName": "dinesh",
+      "userEmail": "dinesh@gmail.com",
+      "items": [
+        {
+          "productId": "P_P6wY9y12g",
+          "name": "iPhone 15 Pro",
+          "category": "Mobile",
+          "price": 129999,
+          "brand": "Apple",
+          "rating": 4.9,
+          "discount": 8,
+          "description": "Premium Apple smartphone with Pro camera system.",
+          "image": "https://images.unsplash.com/photo-1696446701796-da61225697cc?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        },
+        {
+          "productId": "gIK7motnhKI",
+          "name": "American Tourister Backpack",
+          "category": "Bags",
+          "price": 2649,
+          "brand": "American Tourister",
+          "rating": 4.4,
+          "discount": 20,
+          "description": "Durable backpack suitable for college and travel.",
+          "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        }
+      ],
+      "total": 132648,
+      "date": "2026-08-28T07:48:21.946Z",
+      "status": "Placed",
+      "id": "PGLr46y_-5g"
+    },
+    {
+      "userId": "KcHus_N9jhQ",
+      "userName": "saranraj",
+      "userEmail": "saran@gmail.com",
+      "items": [
+        {
+          "productId": "QflV-XHuilU",
+          "name": "iPhone 15 Plus",
+          "category": "Mobile",
+          "price": 86399,
+          "brand": "Apple",
+          "rating": 4.7,
+          "discount": 12,
+          "description": "Large display smartphone with excellent battery life.",
+          "image": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        }
+      ],
+      "total": 86399,
+      "date": "2026-08-28T11:19:35.239Z",
+      "status": "Placed",
+      "id": "ycD7QvgOkF0"
+    },
+    {
+      "userId": "-qZKnVeOMqI",
+      "userName": "mouli",
+      "userEmail": "mouli@gmail.com",
+      "items": [
+        {
+          "productId": "AKxvwxtOAFs",
+          "name": "iPhone 15 Pro",
+          "category": "Mobile",
+          "price": 129999,
+          "brand": "Apple",
+          "rating": 4.9,
+          "discount": 8,
+          "description": "Premium Apple smartphone with Pro camera system.",
+          "image": "https://images.unsplash.com/photo-1696446701796-da61225697cc?auto=format&fit=crop&w=600&h=600&q=80",
+          "quantity": 1
+        }
+      ],
+      "total": 129999,
+      "date": "2026-09-20T13:58:39.597Z",
+      "status": "Placed",
+      "id": "YxvcUP4kGvs"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Vikram",
+      "email": "vikram@gmail.com",
+      "password": "123456"
+    },
+    {
+      "name": "ishee",
+      "email": "ishee@gmail.com",
+      "password": "1234",
+      "id": "72NaWnqQv3E"
+    },
+    {
+      "name": "deepika",
+      "email": "deepika@gmail.com",
+      "password": "1234",
+      "id": "Z8ciqaAzKcU"
+    },
+    {
+      "name": "vikram",
+      "email": "vikramsurya2821@gmail.com",
+      "password": "1234",
+      "id": "_N_IIgHJfpY"
+    },
+    {
+      "name": "saranraj",
+      "email": "saran@gmail.com",
+      "password": "1234",
+      "id": "KcHus_N9jhQ"
+    },
+    {
+      "name": "dinesh",
+      "email": "dinesh@gmail.com",
+      "password": "isheetha",
+      "id": "WuM2T8Kh3Jc"
+    },
+    {
+      "name": "surya",
+      "email": "surya@gmail.com",
+      "password": "1234",
+      "id": "6JnZxQ5QIzA"
+    },
+    {
+      "name": "mouli",
+      "email": "mouli@gmail.com",
+      "password": "1234",
+      "id": "-qZKnVeOMqI"
+    }
+  ],
+  "currentUser": [
+    {
+      "name": "mouli",
+      "email": "mouli@gmail.com",
+      "id": "Ak-kkk7KAJ8"
+    }
+  ],
+  "addresses": [
+    {
+      "userId": "Z8ciqaAzKcU",
+      "fullName": "deepika",
+      "mobile": "6382841839",
+      "address": "bommampatti",
+      "city": "namakkal",
+      "pincode": "627212",
+      "id": "LOi7fd5vObo"
+    },
+    {
+      "userId": "72NaWnqQv3E",
+      "fullName": "isheetha",
+      "mobile": "9345827378",
+      "address": "bommampatti south",
+      "city": "namakkal",
+      "pincode": "637212",
+      "id": "w08hC8gruPU"
+    },
+    {
+      "userId": "_N_IIgHJfpY",
+      "fullName": "Vikram Surya21",
+      "mobile": "9345827378",
+      "address": "velagoundampatti",
+      "city": "namakkal",
+      "pincode": "637212",
+      "id": "pt4tLI8ghUU"
+    },
+    {
+      "userId": "KcHus_N9jhQ",
+      "fullName": "saranraj",
+      "mobile": "6374923042",
+      "address": "8/3 bommampatt south",
+      "city": "namakkal",
+      "pincode": "637212",
+      "id": "4oLiaoZhH8g"
+    },
+    {
+      "userId": "WuM2T8Kh3Jc",
+      "fullName": "dineshkumar",
+      "mobile": "6374923042",
+      "address": "mnr",
+      "city": "namakkal",
+      "pincode": "637212",
+      "id": "gh3GpntJlxY"
+    },
+    {
+      "userId": "72NaWnqQv3E",
+      "fullName": "Vikram Surya21",
+      "mobile": "6382841839",
+      "address": "nmp",
+      "city": "nkl",
+      "pincode": "444333",
+      "id": "A2LWh1qeelk"
+    },
+    {
+      "userId": "6JnZxQ5QIzA",
+      "fullName": "surya",
+      "mobile": "9345827378",
+      "address": "bmp south",
+      "city": "namakkal",
+      "pincode": "223344",
+      "id": "Spr92jxR-O8"
+    },
+    {
+      "userId": "-qZKnVeOMqI",
+      "fullName": "mouli",
+      "mobile": "1234567890",
+      "address": "abc",
+      "city": "nkl",
+      "pincode": "266625",
+      "id": "z8qRh2Wlcxo"
+    }
+  ],
+  "wishlist": [
+    {
+      "id": "5V0v0NhJI28",
+      "name": "iPhone 15 Plus",
+      "category": "Mobile",
+      "price": 79999,
+      "stock": 20,
+      "brand": "Apple",
+      "rating": 4.7,
+      "discount": 12,
+      "image": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?auto=format&fit=crop&w=600&h=600&q=80",
+      "description": "Large display smartphone with excellent battery life."
+    },
+    {
+      "userId": "_N_IIgHJfpY",
+      "productId": 2,
+      "product": {
+        "id": 2,
+        "name": "iPhone 15 Pro",
+        "category": "Mobile",
+        "price": 129999,
+        "stock": 15,
+        "brand": "Apple",
+        "rating": 4.9,
+        "discount": 8,
+        "image": "https://images.unsplash.com/photo-1696446701796-da61225697cc?auto=format&fit=crop&w=600&h=600&q=80",
+        "description": "Premium Apple smartphone with Pro camera system.",
+        "variants": [
+          {
+            "id": "2-v1",
+            "ram": "8GB",
+            "storage": "128GB",
+            "color": "Black",
+            "price": 129999,
+            "stock": 5
+          },
+          {
+            "id": "2-v2",
+            "ram": "8GB",
+            "storage": "256GB",
+            "color": "Blue",
+            "price": 140399,
+            "stock": 5
+          },
+          {
+            "id": "2-v3",
+            "ram": "12GB",
+            "storage": "256GB",
+            "color": "Silver",
+            "price": 150799,
+            "stock": 5
+          }
+        ]
+      },
+      "id": "O4glUIxqgw0"
+    },
+    {
+      "userId": "_N_IIgHJfpY",
+      "productId": 3,
+      "product": {
+        "id": 3,
+        "name": "iPhone 15 Plus",
+        "category": "Mobile",
+        "price": 79999,
+        "stock": 20,
+        "brand": "Apple",
+        "rating": 4.7,
+        "discount": 12,
+        "image": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?auto=format&fit=crop&w=600&h=600&q=80",
+        "description": "Large display smartphone with excellent battery life.",
+        "variants": [
+          {
+            "id": "3-v1",
+            "ram": "8GB",
+            "storage": "128GB",
+            "color": "Black",
+            "price": 79999,
+            "stock": 6
+          },
+          {
+            "id": "3-v2",
+            "ram": "8GB",
+            "storage": "256GB",
+            "color": "Blue",
+            "price": 86399,
+            "stock": 6
+          },
+          {
+            "id": "3-v3",
+            "ram": "12GB",
+            "storage": "256GB",
+            "color": "Silver",
+            "price": 92799,
+            "stock": 8
+          }
+        ]
+      },
+      "id": "RXbwE_dehCI"
+    },
+    {
+      "userId": "_N_IIgHJfpY",
+      "productId": 4,
+      "product": {
+        "id": 4,
+        "name": "Samsung Galaxy S24",
+        "category": "Mobile",
+        "price": 74999,
+        "stock": 18,
+        "brand": "Samsung",
+        "rating": 4.7,
+        "discount": 15,
+        "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=600&h=600&q=80",
+        "description": "Premium Samsung smartphone with AMOLED display.",
+        "variants": [
+          {
+            "id": "4-v1",
+            "ram": "8GB",
+            "storage": "128GB",
+            "color": "Black",
+            "price": 74999,
+            "stock": 6
+          },
+          {
+            "id": "4-v2",
+            "ram": "8GB",
+            "storage": "256GB",
+            "color": "Blue",
+            "price": 80999,
+            "stock": 6
+          },
+          {
+            "id": "4-v3",
+            "ram": "12GB",
+            "storage": "256GB",
+            "color": "Silver",
+            "price": 86999,
+            "stock": 6
+          }
+        ]
+      },
+      "id": "unVaqytuP78"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

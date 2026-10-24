@@ -1,0 +1,55 @@
+.banner {
+  width: 90%;
+
+  margin: 15px auto;
+
+  min-height: 220px;
+
+  padding: 40px 8%;
+
+  background: linear-gradient(
+    135deg,
+    #2874f0,
+    #00a8ff
+  );
+
+  color: white;
+
+  display: flex;
+
+  justify-content: space-between;
+
+  align-items: center;
+
+  border-radius: 5px;
+}
+
+.banner h1 {
+  font-size: 38px;
+}
+
+.banner button {
+  background: #ff9f00;
+
+  border: none;
+
+  color: white;
+
+  padding: 13px 30px;
+
+  font-weight: bold;
+
+  cursor: pointer;
+}
+
+.offer {
+  display: flex;
+
+  flex-direction: column;
+
+  align-items: center;
+}
+
+.offer strong {
+  font-size: 70px;
+}

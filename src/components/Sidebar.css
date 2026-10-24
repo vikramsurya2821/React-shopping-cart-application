@@ -1,0 +1,53 @@
+.sidebar {
+  width: 240px;
+
+  min-width: 240px;
+
+  background: white;
+
+  padding: 20px;
+
+  position: sticky;
+
+  top: 135px;
+}
+
+.sidebar hr {
+  border: none;
+
+  border-top: 1px solid #ddd;
+
+  margin: 18px 0;
+}
+
+.filter-item {
+  display: block;
+
+  margin: 12px 0;
+
+  cursor: pointer;
+}
+
+.filter-item input {
+  margin-right: 10px;
+}
+
+.sidebar input[type="range"] {
+  width: 100%;
+}
+
+.clear-btn {
+  width: 100%;
+
+  padding: 10px;
+
+  margin-top: 20px;
+
+  background: white;
+
+  color: #2874f0;
+
+  border: 1px solid #2874f0;
+
+  cursor: pointer;
+}
